@@ -1,5 +1,7 @@
 # Vanguard-TMP
  A Vanguard Mod for Trivia Murder Party 2
+![Preview](https://media.discordapp.net/attachments/1264211564245024818/1277675286653309091/image.png)
+
 
 ## How to Install the Mod
 ### Deleting Game Files

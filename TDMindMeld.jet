@@ -1,0 +1,202 @@
+{
+    "content": [
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "front trigger"
+                    ],
+                    "answer": "front"
+                },
+                {
+                    "alt": [
+                        "heal trigger"
+                    ],
+                    "answer": "heal"
+                },
+                {
+                    "alt": [
+                        "draw trigger"
+                    ],
+                    "answer": "draw"
+                },
+                {
+                    "alt": [
+                        "critical trigger",
+                        "crit"
+                    ],
+                    "answer": "critical"
+                },
+                {
+                    "alt": [
+                        "stand trigger"
+                    ],
+                    "answer": "stand"
+                },
+                {
+                    "alt": [
+                        "over trigger",
+                        "overtrigger"
+                    ],
+                    "answer": "over"
+                }
+            ],
+            "id": "500000",
+            "text": "Vanguard Triggers",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "yu-yu kondo",
+                        "yuyu",
+                        "yu yu"
+                    ],
+                    "answer": "yu-yu"
+                },
+                {
+                    "alt": [
+                        "danji momoyama"
+                    ],
+                    "answer": "danji"
+                },
+                {
+                    "alt": [
+                        "tohya ebata"
+                    ],
+                    "answer": "tohya"
+                },
+                {
+                    "alt": [
+                        "megumi okura"
+                    ],
+                    "answer": "megumi"
+                },
+                {
+                    "alt": [
+                        "zakusa ishigame"
+                    ],
+                    "answer": "zakusa"
+                },
+                {
+                    "alt": [
+                        "tomari seto"
+                    ],
+                    "answer": "Tomari"
+                },
+                {
+                    "alt": [
+                        "masanori iseki"
+                    ],
+                    "answer": "masanori"
+                },
+                {
+                    "alt": [
+                        "mirei minae"
+                    ],
+                    "answer": "mirei"
+                }
+            ],
+            "id": "500001",
+            "text": "Main Characters in Overdress Season 1",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "miracles"
+                    ],
+                    "answer": "rezael"
+                },
+                {
+                    "alt": [
+                        "guiding star"
+                    ],
+                    "answer": "welstra"
+                },
+                {
+                    "alt": [
+                        "zorga nadir", "taboo"
+                    ],
+                    "answer": "zorga"
+                },
+                {
+                    "alt": [
+                        "liael=amorta","amorta", "time"
+                    ],
+                    "answer": "liael"
+                },
+                {
+                    "alt": [
+                        "varga dragres", "unparalleled"
+                    ],
+                    "answer": "varga"
+                },
+                {
+                    "alt": [
+                        "zero"
+                    ],
+                    "answer": "blangdmire"
+                },
+                {
+                    "alt": [
+                        "ever-changing"
+                    ],
+                    "answer": "krysrain"
+                }
+            ],
+            "id": "500002",
+            "text": "Fated Ones Units (Write only the Card nickname)",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "kuon aikawa"
+                    ],
+                    "answer": "kuon"
+                },
+                {
+                    "alt": [
+                        "senka kanae"
+                    ],
+                    "answer": "senka"
+                },
+                {
+                    "alt": [
+                        "kyohma kurosaki"
+                    ],
+                    "answer": "kyohma"
+                },
+                {
+                    "alt": [
+                        "jinki mukae"
+                    ],
+                    "answer": "jinki"
+                },
+                {
+                    "alt": [
+                        "yuna saionji"
+                    ],
+                    "answer": "yuna"
+                },
+                {
+                    "alt": [
+                        "hikari myodo"
+                    ],
+                    "answer": "hikari"
+                }
+            ],
+            "id": "500003",
+            "text": "Destined Ones Fighters",
+            "us": false,
+            "x": false
+        }
+    ]
+}

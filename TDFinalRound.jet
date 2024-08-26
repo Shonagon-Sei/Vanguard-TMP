@@ -1,0 +1,1938 @@
+{
+    "content": [
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "0"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "1000"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "2000"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "3000"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "16000"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "17000"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "18000"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "19000"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "20000"
+                }
+            ],
+            "id": "400000",
+            "text": "Power Values that exist in Vanguard"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kagero"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Narukami"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Murakumo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nubatama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Tachikaze"
+                }
+            ],
+            "id": "400001",
+            "text": "Main Armies of the Dragon Empire"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Thermometer Angel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Chouchou, Hulala"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Acquire Deletor, Igor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Spawn of the Spiral Nebula"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Stardust Trumpeter"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lizard Runner, Undeux"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Workerpod, Saturday"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Lizard Soldier, Conroe"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Megacolony Battler C"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Magical Calico"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ironclad Dragon, Shieldon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Madame Mirage"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zappbau"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Crisis Revenger, Fritz"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Angelic Liberator"
+                }
+            ],
+            "id": "400002",
+            "text": "First Vanguards with Forerunner"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Urara Haneyama"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Raika Koshiba"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mirei Minae"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Taizo Kiyokura"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Michiru Hazama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Megumi Okura"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Danji Momoyama"
+                }
+                
+            ],
+            "id": "400003",
+            "text": "Characters that won the U18"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Silent Bark"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Breaking the ROCK!!"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Love & Energy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Future will come"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Make a Splash!"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Erchiglhaad"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vidhelvasti"
+                }
+                
+            ],
+            "id": "400004",
+            "text": "OSTs in will+Dress Season 1"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cashier"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Babysitter"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Painter"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gardener"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Priest"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Janitor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Construction Labor"
+                }
+                
+            ],
+            "id": "400005",
+            "text": "Danji's Extra Jobs in Overdress Season 1"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Luticia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kyouka"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Siana"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fortia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Lisciafael"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Michu"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kairi"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Clarissa"
+                }
+                
+            ],
+            "id": "400006",
+            "text": "Lyrical Monasterio decks piloted by characters from Anime/Games"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kamui Katsuragi"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Aichi Sendou"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Emi Sendou"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Misaki Tokura"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ren Suzugamori"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Taishi Miwa"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ninja Master Neo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Asaka Narumi"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kyou Yahagi"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Toshiki Kai"
+                }
+                
+            ],
+            "id": "400007",
+            "text": "Characters that wasn't reversed in the Original"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Adamantine Celestial, Aniel"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blue Storm Shield, Homerus"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Chouchou, Tino"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cosmic Hero, Grandguard"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dark Shield, Mac Lir"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Archbird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Steam Maiden, Arlim"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Flash Shield, Iseult"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Solid Celestial, Adnar-el"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kelpie Rider, Vallas"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ambient Silence, Etosha"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Blade Wing Tyrwhitt"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Holy Mage, Irena"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Reef Banshee"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragon Knight, Gimel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Machining Ladybug"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Silver Snow, Sasame"
+                }
+                
+            ],
+            "id": "400008",
+            "text": "Quintet Walls"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "DB"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "EB"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "UB"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "TCB"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "CHB"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "MTB"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "CB"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "GMB"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "RV"
+                }
+                
+            ],
+            "id": "400009",
+            "text": "Vanguard Booster Sets"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Unicorn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team TRY3"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team 5D's"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team Dreadnought"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team Battle Weeds"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Ragnarok"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team Handsome"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Catastrophe"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Shark"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team Spyder"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team Q4"
+                }
+                
+            ],
+            "id": "400010",
+            "text": "Anime Vanguard Teams"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ragnarok"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Animation"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Game"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Live Action"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Mask Collection"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Iconic"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zenkaiger"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vocaloid"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vtuber"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Anime"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Buddyfight"
+                }
+                
+            ],
+            "id": "400011",
+            "text": "Thai-exclusive clans"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Main Step"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Draw Step"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Drive Step"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ride Step"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Start Step"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Attack Step"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "End Step"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Retire Step"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ability Step"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Guard Step"
+                }
+                
+            ],
+            "id": "400012",
+            "text": "Steps according to Comprehensive Rules"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Spirit"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Angelroid"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Image Character"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Equipment"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragod"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kraken"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Meteordino"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Space Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Barbie"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Salmon Fillet"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Decoy"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Doll"
+                }
+                
+            ],
+            "id": "400013",
+            "text": "Races that exist in Vanguard"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Genba"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "ZANGEKI"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Shirayuki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ikkaku"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Seimei"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tamamo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Morishige"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Suzu"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Hagurejishi"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Arahabaki"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yorihira"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Voidmaster"
+                }
+                
+            ],
+            "id": "400014",
+            "text": "Card Names in Murakumo"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "PC"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Wii"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Playstation 5"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Playstation 4"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "3DS"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Xbox One"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mobile"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Xbox X"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "DS"
+                }
+                
+            ],
+            "id": "400015",
+            "text": "Platforms with a Vanguard Video Game"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Raika Koshiba"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yu-yu Kondo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nao Inabe"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Michiru Hazama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Danji Momoyama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mirei Minae"
+                }
+                
+            ],
+            "id": "400016",
+            "text": "Characters that like to eat Red Bean Soup"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Taizo Kiyokura"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yu-yu Kondo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Halona Walker"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kanoashi Himari"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Urara Haneyama"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mirei Minae"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Megumi Okura"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Raika Koshiba"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tohya Ebata"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gui"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Urara Haneyama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Danji Momoyama"
+                }
+                
+            ],
+            "id": "400017",
+            "text": "Top 8 Characters in Deluxe Season 2"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vanguard Dear Days"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cardfight!! Vanguard: Turnabout"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cardfight!! Vanguard: YouthQuake"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Another Vanguard: Star Road Asuka"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Cardfight!! Vanguard Extra Story -IF-"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vanguard Frontier"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mini Vanguard"
+                }                
+            ],
+            "id": "400018",
+            "text": "Vanguard Media/Game with a Female Main Protagonist"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Future Hikari"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yu-yu"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Shinobu"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nao"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kuon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Taizo"
+                }                
+            ],
+            "id": "400019",
+            "text": "Characters with the same height as Suo"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Roselia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Afterglow"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Poppin'Party"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "MyGO!!!!!"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Hello, Happy World!"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "RAISE A SUILEN"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Morfonica"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Pastel*Palettes"
+                } ,
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ave Mujica"
+                }                  
+            ],
+            "id": "400020",
+            "text": "BanG Dream! bands that sang for Vanguard medias"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hachiban Ramen"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Pepper Lunch"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "q+M"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gusto"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yoshinoya"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "CoCo Ichibanya"
+                }                  
+            ],
+            "id": "400021",
+            "text": "Real Restaurants appearing in D animes"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ashlei"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Freed"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Egbert"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Salome"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ezel"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Marius"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Swordmy"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Spectral Duke"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jeanne"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Margaux"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bleoberis"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Hudon"
+                }                    
+            ],
+            "id": "400022",
+            "text": "Card Names in Royal Paladin"
+        },{
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nao Inabe"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Jinki Mukae"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yuna Saionji"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Taizo Kiyokura"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Masanori Iseki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mikoto Saito"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Suo Yobitsugi"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Akina Myodo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kyohma Kurosaki"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kuon Aikawa"
+                }                   
+            ],
+            "id": "400023",
+            "text": "Characters on an Energy Generator"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragon Empire"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Brandt Gate"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Monster Strike"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Stoicheia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Record of Ragnarok"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "SHAMAN KING"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lyrical Monasterio"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Keter Sanctuary"
+                }                   
+            ],
+            "id": "400024",
+            "text": "D Nations that can generate tokens"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nitou Kaigan"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dark Device"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Storm"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Shadowstitch"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Power Surge"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Contest"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vote"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ward"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Success"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Enchant"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Amplify"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Crystallize"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Afterimage"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Overcharge"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Wings"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rally"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Skybound Art"
+                }                       
+            ],
+            "id": "400025",
+            "text": "Keywords that exist in Vanguard"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Drop Zone"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Field"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Hand"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Soul"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Bind Zone"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Removal Zone"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Deck"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "G Zone"
+                }                   
+            ],
+            "id": "400026",
+            "text": "Public Zones in Vanguard"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rain Elemental, Zarzan"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tempest Sphere"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zeroth Dragon of Zenith Peak, Ultima"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Flame Wind Lion, Wonder Ezel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Knight of Insolation, Carinus"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Esteemed Deity of Abundant Waters, Ichikishima"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Freezing Witch, Bendi"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Goddess of Sound Sleep, Tahro"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragon Knight, Nizari"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Turmoil Star-vader, Zinc"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Vanquisher \"FULLBRONTO\""
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fabricated Dragon of Ruination"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Doctoroid Refros"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Eradicator, Sweep Command Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Conquering Supreme Dragon, Stunverse Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Commander Laurel"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Enigmatic Assassin"
+                }                   
+            ],
+            "id": "400027",
+            "text": "Current Completely Restricted Cards in Premium (EN Banlist)"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Trigger Order"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Token Set Order"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Token Crest"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Token Normal Order"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ticket"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Heart"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Order Unit"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dress"
+                }                  
+            ],
+            "id": "400028",
+            "text": "Card Types that exist in Vanguard"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Pale Moon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Oracle Think Tank"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Spike Brothers"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bermuda Triangle"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gear Chronicle"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mega Colony"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dark Irregulars"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Tachikaze"
+                }                  
+            ],
+            "id": "400029",
+            "text": "Clans that did not get a Legion in a booster/extra set release"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Alfred"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gancelot"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ezel"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Sagramore"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Garmore"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Wingal"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Galehaut"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Salome"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Claude"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Epona"
+                }                  
+            ],
+            "id": "400030",
+            "text": "Units with a Liberator version"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Star Road"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Machine Road"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Hero Road"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Light Road"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nothingness Road"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Brave Road"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Shadow Road"
+                }                
+            ],
+            "id": "400031",
+            "text": "Roads of Union Verse (Another Vanguard: Seidou no Asuka)"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "PSY"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Card Capital"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Go To"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Voyage"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Card Capital 2"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Esuka"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Stray Cat"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Shooting Star"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "STARRY"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "RiNG"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Neuroi"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kame Game Store"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragon Star"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fortuna"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "C-Labo"
+                }                 
+            ],
+            "id": "400032",
+            "text": "Card Shops in Vanguard Media"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Trick & Treat"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Souls of the Tao Family Ancestors"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Neatness Meteor Shower"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Trouble Varidol, Pressiv"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Integrity Flower Maiden, Ritaleena"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mike the Shipwright"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Red-leaf Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Machining Cicada"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mass Production Sailor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Megacolony Battler+ \"Type.C\""
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Falling Hellhazard"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Trickstar"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Scissors Scorpio"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Call and Response"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cursed Sugar Sparkle"
+                } ,
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Anathem Slap Twinkle"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Forest Protecting Hunter, Prosper"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lilac Lasher"
+                }                 
+            ],
+            "id": "400033",
+            "text": "Cards that can be put up to 16 copies in deck"
+        }
+                         
+    ]
+}

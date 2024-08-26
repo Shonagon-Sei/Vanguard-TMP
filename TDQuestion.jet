@@ -1,0 +1,1382 @@
+{
+    "content": [
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "BT04"
+                },
+                {
+                    "correct": true,
+                    "text": "BT06"
+                },
+                {
+                    "correct": false,
+                    "text": "BT07"
+                },
+                {
+                    "correct": false,
+                    "text": "BT09"
+                }
+            ],
+            "id": "300001",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In the English release of Cardfight!! Vanguard, which booster pack came out before BT03?",
+            "text": "In the English release of Cardfight!! Vanguard, which booster pack came out before BT03?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "[i]EC19 Vtuber Projekt[/i]"
+                },
+                {
+                    "correct": false,
+                    "text": "[i]Conan[/i]"
+                },
+                {
+                    "correct": true,
+                    "text": "[i]Doraemon[/i]"
+                },
+                {
+                    "correct": false,
+                    "text": "[i]Zenkaiger[/i]"
+                }
+            ],
+            "id": "300002",
+            "introAudio": "The Thai version of Vanguard has a lot of collabs, but...",
+            "outro": null,
+            "questionAudio": "Which of these series did not collab with Thai Vanguard",
+            "text": "Which of these series did not collab with Thai Vanguard",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Cosmo Security"
+                },
+                {
+                    "correct": false,
+                    "text": "Blitz Industry"
+                },
+                {
+                    "correct": false,
+                    "text": "Brandt Gate Security"
+                },
+                {
+                    "correct": false,
+                    "text": "Aurora Battle Princess"
+                }
+            ],
+            "id": "300003",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the name of the organization Seraph Snow works for?",
+            "text": "What is the name of the organization Seraph Snow works for?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Accel I"
+                },
+                {
+                    "correct": false,
+                    "text": "Accel II"
+                },
+                {
+                    "correct": false,
+                    "text": "Force I"
+                },
+                {
+                    "correct": true,
+                    "text": "Force II"
+                }
+            ],
+            "id": "300004",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which Gift Marker gives Power/Critical to the dominated unit?",
+            "text": "Which Gift Marker gives Power/Critical to the dominated unit?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Sentinel"
+                },
+                {
+                    "correct": false,
+                    "text": "Lord"
+                },
+                {
+                    "correct": false,
+                    "text": "Forerunner"
+                },
+                {
+                    "correct": true,
+                    "text": "Restraint"
+                }
+            ],
+            "id": "300005",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these keywords came first?",
+            "text": "Which of these keywords came first?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "The player that causes the loop loses"
+                },
+                {
+                    "correct": false,
+                    "text": "The current turn player loses"
+                },
+                {
+                    "correct": true,
+                    "text": "It's a draw"
+                },
+                {
+                    "correct": false,
+                    "text": "The current turn player wins"
+                }
+            ],
+            "id": "300006",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In case of a loop, if nobody can stop the loop, what happens?",
+            "text": "In case of a loop, if nobody can stop the loop, what happens?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Korean"
+                },
+                {
+                    "correct": true,
+                    "text": "French"
+                },
+                {
+                    "correct": false,
+                    "text": "Bahasa (Indonesian)"
+                },
+                {
+                    "correct": false,
+                    "text": "Italian"
+                }
+            ],
+            "id": "300007",
+            "introAudio": "Vanguard exists in many languages, but...",
+            "outro": null,
+            "questionAudio": "Which of these languages doesn't have its own Vanguard version?",
+            "text": "Which of these languages doesn't have its own Vanguard version?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Damage, On Hit Effects, Retire Hit Rear-guards"
+                },
+                {
+                    "correct": false,
+                    "text": "On Hit Effects, Retire Hit Rear-guards, Damage"
+                },
+                {
+                    "correct": false,
+                    "text": "Damage, Retire Hit Rear-guards, On Hit Effects"
+                },
+                {
+                    "correct": false,
+                    "text": "Retire Hit Rear-guards, On Hit Effects, Damage"
+                }
+            ],
+            "id": "300008",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which is the correct order for the damage step?",
+            "text": "Which is the correct order for the damage step?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "29"
+                },
+                {
+                    "correct": true,
+                    "text": "35"
+                },
+                {
+                    "correct": false,
+                    "text": "36"
+                },
+                {
+                    "correct": false,
+                    "text": "38"
+                }
+            ],
+            "id": "300009",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many printed clans are there in Vanguard including Collabs, Non-Legal, and Thai Exclusive clans?",
+            "text": "How many printed clans are there in Vanguard including Collabs, Non-Legal, and Thai Exclusive clans?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Gearoid"
+                },
+                {
+                    "correct": false,
+                    "text": "Plasma Dragon"
+                },
+                {
+                    "correct": false,
+                    "text": "Galaxian"
+                },
+                {
+                    "correct": true,
+                    "text": "Dinosaur"
+                }
+            ],
+            "id": "300010",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which race doesn't exist in Vanguard?",
+            "text": "Which race doesn't exist in Vanguard?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Fated One of Zero, Blangdmire"
+                },
+                {
+                    "correct": false,
+                    "text": "Galactic B-Hero, Purely Agno"
+                },
+                {
+                    "correct": false,
+                    "text": "Destined One of Supremacy, Lisciafael"
+                },
+                {
+                    "correct": false,
+                    "text": "Silhouette Man"
+                }
+            ],
+            "id": "300011",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who is the youngest unit?",
+            "text": "Who is the youngest unit?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Michu"
+                },
+                {
+                    "correct": true,
+                    "text": "Blue Deathster"
+                },
+                {
+                    "correct": false,
+                    "text": "Flagburg"
+                },
+                {
+                    "correct": false,
+                    "text": "Silhouette"
+                }
+            ],
+            "id": "300012",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which archetype/character is sponsored by Blitz Industry?",
+            "text": "Which archetype/character is sponsored by Blitz Industry?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Marris"
+                },
+                {
+                    "correct": false,
+                    "text": "Lion Mane Stallion"
+                },
+                {
+                    "correct": true,
+                    "text": "Nigra"
+                },
+                {
+                    "correct": false,
+                    "text": "Raging Storm"
+                }
+            ],
+            "id": "300013",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the name of Mordalion's horse?",
+            "text": "What is the name of Mordalion's horse?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "1st"
+                },
+                {
+                    "correct": true,
+                    "text": "2nd"
+                },
+                {
+                    "correct": false,
+                    "text": "3rd"
+                },
+                {
+                    "correct": false,
+                    "text": "4th"
+                }
+            ],
+            "id": "300014",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In the team tournament Raika participated as part of Tirnanog Youth, in what place did the team place?",
+            "text": "In the team tournament Raika participated as part of Tirnanog Youth, in what place did the team place?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Yu-yu Kodno"
+                },
+                {
+                    "correct": false,
+                    "text": "Sophie Belle"
+                },
+                {
+                    "correct": true,
+                    "text": "Halona Walker"
+                },
+                {
+                    "correct": false,
+                    "text": "Masanori Iseki"
+                }
+            ],
+            "id": "300015",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Aside from Urara, who did Gui chose to invite to the project before they have actually played Vanguard?",
+            "text": "Aside from Urara, who did Gui chose to invite to the project before they have actually played Vanguard?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Black"
+                },
+                {
+                    "correct": false,
+                    "text": "Blue"
+                },
+                {
+                    "correct": false,
+                    "text": "Green"
+                },
+                {
+                    "correct": true,
+                    "text": "Red"
+                }
+            ],
+            "id": "300016",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What color is Masanori's car?",
+            "text": "What color is Masanori's car?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Grape Juice"
+                },
+                {
+                    "correct": false,
+                    "text": "Diabolos"
+                },
+                {
+                    "correct": false,
+                    "text": "Rush"
+                },
+                {
+                    "correct": true,
+                    "text": "Melon Bun"
+                }
+            ],
+            "id": "300017",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What's the name of Danji's turtle?",
+            "text": "What's the name of Danji's turtle?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Conduct Spark Dragon"
+                },
+                {
+                    "correct": false,
+                    "text": "Blaze Maiden, Zonne"
+                },
+                {
+                    "correct": false,
+                    "text": "Burning Flail Dragon"
+                },
+                {
+                    "correct": false,
+                    "text": "Stealth Dragon, Madowazu"
+                }
+            ],
+            "id": "300018",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What's the second card Mirei drive checked during the Final turn when fighting Nordlinger Masques?",
+            "text": "What's the second card Mirei drive checked during the Final turn when fighting Nordlinger Masques?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "2020"
+                },
+                {
+                    "correct": true,
+                    "text": "2021"
+                },
+                {
+                    "correct": false,
+                    "text": "2022"
+                },
+                {
+                    "correct": false,
+                    "text": "2023"
+                }
+            ],
+            "id": "300019",
+            "introAudio": "A bit of self insert here...",
+            "outro": null,
+            "questionAudio": "In what year was Assisticat created?",
+            "text": "In what year was Assisticat created?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Nirvana"
+                },
+                {
+                    "correct": false,
+                    "text": "Seraph Snow"
+                },
+                {
+                    "correct": true,
+                    "text": "Loronerol"
+                },
+                {
+                    "correct": false,
+                    "text": "Kairi"
+                }
+            ],
+            "id": "300020",
+            "introAudio": "A bit of self insert here...",
+            "outro": null,
+            "questionAudio": "What is Iyako's first D deck?",
+            "text": "What is Iyako's first D deck?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Calamity"
+                },
+                {
+                    "correct": false,
+                    "text": "Gacha"
+                },
+                {
+                    "correct": true,
+                    "text": "Potion"
+                },
+                {
+                    "correct": false,
+                    "text": "Ultimate Skill"
+                }
+            ],
+            "id": "300021",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which order sub-type does not exist?",
+            "text": "Which order sub-type does not exist?",
+            "us": false,
+            "x": false
+        } ,
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Count them by the number of cards"
+                },
+                {
+                    "correct": false,
+                    "text": "Count them by the number of different card IDs"
+                },
+                {
+                    "correct": true,
+                    "text": "Count them by the number of different card names"
+                },
+                {
+                    "correct": false,
+                    "text": "Count them by the number of different card effects"
+                }
+            ],
+            "id": "300022",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How do you count the number of different cards?",
+            "text": "How do you count the number of different cards?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Getting the 6th (or 7th in some cases) damage"
+                },
+                {
+                    "correct": false,
+                    "text": "Deck out"
+                },
+                {
+                    "correct": false,
+                    "text": "Having no Vanguard and Soul at the same time"
+                },
+                {
+                    "correct": true,
+                    "text": "Creating a loop"
+                }
+            ],
+            "id": "300023",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is NOT a way to lose in Vanguard?",
+            "text": "What is NOT a way to lose in Vanguard?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Barking Sky Tiger is put to drop"
+                },
+                {
+                    "correct": false,
+                    "text": "Cracking Beast Tamer is put to drop"
+                },
+                {
+                    "correct": false,
+                    "text": "You choose which is put"
+                },
+                {
+                    "correct": false,
+                    "text": "Both stay on (RC)"
+                }
+            ],
+            "id": "300024",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "When \"Bunny's Beast Tamer, Tilaipse\" chooses a rear-guard \"Cracking Beast Tamer\", it makes the (RC) it is on into a (VC). Cracking then proceeds to Legion with \"Barking Sky Tiger\", What happens at the end of turn when that (VC) turns back into an (RC)?",
+            "text": "When \"Bunny's Beast Tamer, Tilaipse\" chooses a rear-guard \"Cracking Beast Tamer\", it makes the (RC) it is on into a (VC). Cracking then proceeds to Legion with \"Barking Sky Tiger\", What happens at the end of turn when that (VC) turns back into an (RC)?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Biomedical"
+                },
+                {
+                    "correct": true,
+                    "text": "Quantum Physics"
+                },
+                {
+                    "correct": false,
+                    "text": "Philosophy"
+                },
+                {
+                    "correct": false,
+                    "text": "Space Theory"
+                }
+            ],
+            "id": "300025",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What was the topic of the thesis Kuon wrote that got an award?",
+            "text": "What was the topic of the thesis Kuon wrote that got an award?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "4"
+                },
+                {
+                    "correct": true,
+                    "text": "5"
+                },
+                {
+                    "correct": false,
+                    "text": "6"
+                },
+                {
+                    "correct": false,
+                    "text": "7"
+                }
+            ],
+            "id": "300026",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many cats are in \"Mya Mya Ensemble, Nala\" card art?",
+            "text": "How many cats are in \"Mya Mya Ensemble, Nala\" card art?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "6"
+                },
+                {
+                    "correct": false,
+                    "text": "7"
+                },
+                {
+                    "correct": true,
+                    "text": "8"
+                },
+                {
+                    "correct": false,
+                    "text": "9"
+                }
+            ],
+            "id": "300027",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many tentacles does Zorga Nadir have?",
+            "text": "How many tentacles does Zorga Nadir have?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Danji"
+                },
+                {
+                    "correct": false,
+                    "text": "Lucky Card"
+                },
+                {
+                    "correct": true,
+                    "text": "Stray Cat"
+                },
+                {
+                    "correct": false,
+                    "text": "Flying Bird"
+                }
+            ],
+            "id": "300028",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What's the name of Megumi's store?",
+            "text": "What's the name of Megumi's store?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Lianorn"
+                },
+                {
+                    "correct": false,
+                    "text": "Zorga"
+                },
+                {
+                    "correct": false,
+                    "text": "Flagburg"
+                },
+                {
+                    "correct": true,
+                    "text": "Magnolia"
+                }
+            ],
+            "id": "300029",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What deck has Megumi's brother played before?",
+            "text": "What deck has Megumi's brother played before?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Bermuda Triangle"
+                },
+                {
+                    "correct": false,
+                    "text": "Granblue"
+                },
+                {
+                    "correct": false,
+                    "text": "Mega Colony"
+                },
+                {
+                    "correct": true,
+                    "text": "Gold Paladin"
+                }
+            ],
+            "id": "300030",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which clan does NOT have a reverse unit?",
+            "text": "Which clan does NOT have a reverse unit?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Kirimichan"
+                },
+                {
+                    "correct": false,
+                    "text": "Pompompurin"
+                },
+                {
+                    "correct": false,
+                    "text": "Cinnamoroll"
+                },
+                {
+                    "correct": false,
+                    "text": "Gudetama"
+                }
+            ],
+            "id": "300031",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which Sanrio character has collabed with Vanguard?",
+            "text": "Which Sanrio character has collabed with Vanguard?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "CSR"
+                },
+                {
+                    "correct": false,
+                    "text": "CRR"
+                },
+                {
+                    "correct": false,
+                    "text": "CRN"
+                },
+                {
+                    "correct": true,
+                    "text": "CNR"
+                }
+            ],
+            "id": "300032",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What's the exclusive Chinese rarity?",
+            "text": "What's the exclusive Chinese rarity?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Natto Omellete"
+                },
+                {
+                    "correct": false,
+                    "text": "Miso Glazed Salmon"
+                },
+                {
+                    "correct": false,
+                    "text": "Smashed Cucumber Salad"
+                },
+                {
+                    "correct": false,
+                    "text": "Fried Mackerel"
+                }
+            ],
+            "id": "300033",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What did Yu-yu cook for his mom for breakfast in Overdress Season 1 Episode 2?",
+            "text": "What did Yu-yu cook for his mom for breakfast in Overdress Season 1 Episode 2?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Red Panda"
+                },
+                {
+                    "correct": false,
+                    "text": "Pink Bunny"
+                },
+                {
+                    "correct": false,
+                    "text": "Black Cat"
+                },
+                {
+                    "correct": true,
+                    "text": "Orange Kangaroo"
+                }
+            ],
+            "id": "300034",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What doll is next to Mikoto's desk?",
+            "text": "What doll is next to Mikoto's desk?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "No one"
+                },
+                {
+                    "correct": false,
+                    "text": "The owner of the card only"
+                },
+                {
+                    "correct": true,
+                    "text": "Both Players"
+                },
+                {
+                    "correct": false,
+                    "text": "The opponent only"
+                }
+            ],
+            "id": "300035",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "If a card in a public space is turned face down, who can access the information on that card?",
+            "text": "If a card in a public space is turned face down, who can access the information on that card?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Ice Cream"
+                },
+                {
+                    "correct": false,
+                    "text": "Yogurt"
+                },
+                {
+                    "correct": true,
+                    "text": "Pudding"
+                },
+                {
+                    "correct": false,
+                    "text": "Lolipop"
+                }
+            ],
+            "id": "300036",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is Young Hikari's favorite dessert?",
+            "text": "What is Young Hikari's favorite dessert?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Hikari"
+                },
+                {
+                    "correct": true,
+                    "text": "Akina"
+                },
+                {
+                    "correct": false,
+                    "text": "Suo"
+                },
+                {
+                    "correct": false,
+                    "text": "Nao"
+                }
+            ],
+            "id": "300037",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "April 4th is whose birthday?",
+            "text": "April 4th is whose birthday?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Yellow"
+                },
+                {
+                    "correct": true,
+                    "text": "Blue"
+                },
+                {
+                    "correct": false,
+                    "text": "Green"
+                },
+                {
+                    "correct": false,
+                    "text": "Red"
+                }
+            ],
+            "id": "300038",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What color is the background of the Grade 0 Kidani Promo",
+            "text": "What color is the background of the Grade 0 Kidani Promo",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Stoicheia"
+                },
+                {
+                    "correct": false,
+                    "text": "Dark States"
+                },
+                {
+                    "correct": false,
+                    "text": "Keter Sanctuary"
+                },
+                {
+                    "correct": true,
+                    "text": "Lyrical Monasterio"
+                }
+            ],
+            "id": "300039",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the only D Standard nation with a 3000 base power card?",
+            "text": "What is the only D Standard nation with a 3000 base power card?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Stoicheia"
+                },
+                {
+                    "correct": true,
+                    "text": "Dark States"
+                },
+                {
+                    "correct": false,
+                    "text": "Keter Sanctuary"
+                },
+                {
+                    "correct": false,
+                    "text": "Lyrical Monasterio"
+                }
+            ],
+            "id": "300040",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the only D Standard nation with a 2000 base power card?",
+            "text": "What is the only D Standard nation with a 2000 base power card?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Beloved Child of Superstring Theory"
+                },
+                {
+                    "correct": false,
+                    "text": "Axino Dragon"
+                },
+                {
+                    "correct": true,
+                    "text": "Star-vader Sparkdoll"
+                },
+                {
+                    "correct": false,
+                    "text": "Asteroid Wolf"
+                }
+            ],
+            "id": "300041",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "As of 21/8/2024 there is still a bugged card in decklog that is logged as a 500 base power card. Which card is it?",
+            "text": "As of 21/8/2024 there is still a bugged card in decklog that is logged as a 500 base power card. Which card is it?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "40"
+                },
+                {
+                    "correct": false,
+                    "text": "41"
+                },
+                {
+                    "correct": true,
+                    "text": "42"
+                },
+                {
+                    "correct": false,
+                    "text": "43"
+                }
+            ],
+            "id": "300042",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many Cray Elemental cards are there? (Doesn't count No Nation cards)",
+            "text": "How many Cray Elemental cards are there? (Doesn't count No Nation cards)",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Loronerol"
+                },
+                {
+                    "correct": false,
+                    "text": "Luticia"
+                },
+                {
+                    "correct": false,
+                    "text": "Siana"
+                },
+                {
+                    "correct": true,
+                    "text": "Wilista"
+                }
+            ],
+            "id": "300043",
+            "introAudio": "A bit of self insert here...",
+            "outro": null,
+            "questionAudio": "Which unit was NEVER Iyako's Profile Picture?",
+            "text": "Which unit was NEVER Iyako's Profile Picture?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Help Develop Vanguard Pro"
+                },
+                {
+                    "correct": false,
+                    "text": "Photoshop Card Templates"
+                },
+                {
+                    "correct": false,
+                    "text": "Add Thai Cards in CFA"
+                },
+                {
+                    "correct": false,
+                    "text": "This Mod"
+                }
+            ],
+            "id": "300044",
+            "introAudio": "A bit of self insert here...",
+            "outro": null,
+            "questionAudio": "What did Iyako NEVER make/do?",
+            "text": "What did Iyako NEVER make/do?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Lyrical Monasterio"
+                },
+                {
+                    "correct": false,
+                    "text": "Touken Ranbu"
+                },
+                {
+                    "correct": false,
+                    "text": "Dark States"
+                },
+                {
+                    "correct": false,
+                    "text": "Monster Strike"
+                }
+            ],
+            "id": "300045",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "Which Nation has the highest Number of unique art OverTriggers?",
+            "text": "Which Nation has the highest Number of unique art OverTriggers?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Evil-eye Princess, Euryale"
+                },
+                {
+                    "correct": false,
+                    "text": "Gentle Jimm"
+                },
+                {
+                    "correct": true,
+                    "text": "Oracle Guardian, Hermes"
+                },
+                {
+                    "correct": false,
+                    "text": "Flip Croony"
+                }
+            ],
+            "id": "300046",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "What Oracle Think Tank card debuted in the anime only?",
+            "text": "What Oracle Think Tank card debuted in the anime only?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Gaily Kurt"
+                },
+                {
+                    "correct": false,
+                    "text": "Saori Fuchidaka"
+                },
+                {
+                    "correct": false,
+                    "text": "Sousuke Wakamizu"
+                },
+                {
+                    "correct": true,
+                    "text": "Yuichirou Kanzaki"
+                }
+            ],
+            "id": "300047",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "What anime character shares the same Japanese VA as Dio from Jojo's Bizarre Adventures?",
+            "text": "What anime character shares the same Japanese VA as Dio from Jojo's Bizarre Adventures?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Gold Paladin"
+                },
+                {
+                    "correct": true,
+                    "text": "Narukami"
+                },
+                {
+                    "correct": false,
+                    "text": "Shadow Paladin"
+                },
+                {
+                    "correct": false,
+                    "text": "Kagero"
+                }
+            ],
+            "id": "300048",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "Which Clan has the most Break Rides?",
+            "text": "Which Clan has the most Break Rides?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Jesus Herrera"
+                },
+                {
+                    "correct": false,
+                    "text": "Derrick Dao"
+                },
+                {
+                    "correct": false,
+                    "text": "Dave Vecht"
+                },
+                {
+                    "correct": false,
+                    "text": "Mark Guan"
+                }
+            ],
+            "id": "300049",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "Who is the winner of Bushiroad Championship Finals 2017",
+            "text": "Who is the winner of Bushiroad Championship Finals 2017",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "The Mask Collection"
+                },
+                {
+                    "correct": false,
+                    "text": "Game"
+                },
+                {
+                    "correct": false,
+                    "text": "Live Action"
+                },
+                {
+                    "correct": true,
+                    "text": "Animation"
+                }
+            ],
+            "id": "300050",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "What is the FIRST Thai Exclusive clan that has a V deck?",
+            "text": "What is the FIRST Thai Exclusive clan that has a V deck?",
+            "us": false,
+            "x": false
+        },
+        
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Revenger, Raging Form Dragon"
+                },
+                {
+                    "correct": false,
+                    "text": "Dragonic Vanquisher"
+                },
+                {
+                    "correct": false,
+                    "text": "Chronojet Dragon"
+                },
+                {
+                    "correct": false,
+                    "text": "Black-clad Top-tier Deity, Bradblack"
+                }
+            ],
+            "id": "300051",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "Which unit has the most similar skill to Male Assassin \"Sonic Blow\"",
+            "text": "What is the FIRST Thai Exclusive clan that has a V deck?",
+            "us": false,
+            "x": false
+        }                    
+    ]
+}

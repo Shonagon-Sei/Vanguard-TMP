@@ -8,7 +8,7 @@
 
 ## Current Focuses on Future Updates
 - Mirror Minigame
-- Potential Dictation Minigame Modifications
+- ~~Potential Dictation Minigame Modifications~~
 - More Questions (Focusing on the Final Round)
 
 ![Preview](https://media.discordapp.net/attachments/1264211564245024818/1277675286653309091/image.png?ex=66ce0756&is=66ccb5d6&hm=058690465b0770a6c431ccb1daf8c1c14877a24e8729fd4b8d2c11422e406caf&=&format=webp&quality=lossless)

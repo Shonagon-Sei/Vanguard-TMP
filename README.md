@@ -1,5 +1,16 @@
 # Vanguard-TMP
  A Vanguard Mod for Trivia Murder Party 2
+ Currently Modifies
+ - Normal Questions
+ - Final Round Questions
+ - Mind Meld Topics
+<br>With everything voiced!<br>More will be coming soon, and an Update log is noted at the bottom
+
+## Current Focuses on Futue Updates
+- Mirror Minigame
+- Potential Dictation Minigame Modifications
+- More Questions (Focusing on Final Round)
+
 ![Preview](https://media.discordapp.net/attachments/1264211564245024818/1277675286653309091/image.png?ex=66ce0756&is=66ccb5d6&hm=058690465b0770a6c431ccb1daf8c1c14877a24e8729fd4b8d2c11422e406caf&=&format=webp&quality=lossless)
 
 
@@ -14,3 +25,10 @@ Open up your steam library and search up Jackbox Party Pack 6 or Jackbox Party S
 ### Put Mod Files Into The Game files
 All left is just put the files and folders into the content folder, replace the files and you're done!
 ![Step 3](https://i.ibb.co/0DtT1r3/Screenshot-2024-08-27-000254.png)
+
+## Update Log
+### V1.0
+- 51 Normal Questions
+- 33 Final Round Questions
+- 3 Mind Meld Topics
+- All Questions Voices

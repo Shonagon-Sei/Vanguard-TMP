@@ -49,7 +49,7 @@
                 }
             ],
             "id": "400000",
-            "text": "Power Values that exist in Vanguard"
+            "text": "BASE POWER Values that exist in Vanguard"
         },
         {
             "choices": [
@@ -1321,7 +1321,7 @@
                     "text": "Record of Ragnarok"
                 },
                 {
-                    "correct": false,
+                    "correct": true,
                     "difficulty": 0,
                     "text": "SHAMAN KING"
                 },

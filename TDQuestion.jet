@@ -1349,8 +1349,7 @@
             "text": "What is the FIRST Thai Exclusive clan that has a V deck?",
             "us": false,
             "x": false
-        },
-        
+        },        
         {
             "choices": [
                 {
@@ -1374,7 +1373,7 @@
             "introAudio": "",
             "outro": null,
             "questionAudio": "Which unit has the most similar skill to Male Assassin \"Sonic Blow\"",
-            "text": "What is the FIRST Thai Exclusive clan that has a V deck?",
+            "text": "Which unit has the most similar skill to Male Assassin \"Sonic Blow\"",
             "us": false,
             "x": false
         }                    

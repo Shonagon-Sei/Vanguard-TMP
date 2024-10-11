@@ -1932,6 +1932,178 @@
             ],
             "id": "400033",
             "text": "Cards that can be put up to 16 copies in deck"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "0"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "5000"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "20000"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "25000"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "10000"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "50000"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "15000"
+                }                
+            ],
+            "id": "400034",
+            "text": "BASE SHIELD Values that exists in Vanguard"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SKR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "ORR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SD"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "BSR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "TRR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SKR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "EXP"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "EXC"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "URR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SGR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "ZR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "WSP"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "RLR"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "WRR"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "OSR"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SECP"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "HR"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "SPR"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "CSR"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "NSP"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "STD"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "MSR"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "CPP"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "MKR"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "SKS"
+                }                                   
+            ],
+            "id": "400035",
+            "text": "Rarities that exist in Vanguard"
         }
                          
     ]

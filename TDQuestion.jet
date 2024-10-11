@@ -1372,10 +1372,91 @@
             "id": "300051",
             "introAudio": "",
             "outro": null,
-            "questionAudio": "Which unit has the most similar skill to Male Assassin \"Sonic Blow\"",
-            "text": "Which unit has the most similar skill to Male Assassin \"Sonic Blow\"",
+            "questionAudio": "Which unit has the most similar skill to Male Assassin \"Sonic Blow\"?",
+            "text": "Which unit has the most similar skill to Male Assassin \"Sonic Blow\"?",
             "us": false,
             "x": false
-        }                    
+        },        
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Miracle Element, Atmos"
+                },
+                {
+                    "correct": true,
+                    "text": "Harmonics Messiah"
+                },
+                {
+                    "correct": false,
+                    "text": "Light Elemental, Honoly"
+                },
+                {
+                    "correct": false,
+                    "text": "Rain Elemental, Tear"
+                }
+            ],
+            "id": "300052",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "What is the FIRST Cray Elemental card?",
+            "text": "What is the FIRST Cray Elemental card?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "SoraHart"
+                },
+                {
+                    "correct": false,
+                    "text": "Sreeshan Ganesh"
+                },
+                {
+                    "correct": true,
+                    "text": "Dorian B"
+                },
+                {
+                    "correct": false,
+                    "text": "Leo Segla"
+                }
+            ],
+            "id": "300053",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "Who is the winner of Bushiroad Championship Finals 2023",
+            "text": "Who is the winner of Bushiroad Championship Finals 2023",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Glitter Alternate Arts"
+                },
+                {
+                    "correct": false,
+                    "text": "Nirvana Jheva's X-Overdress Units"
+                },
+                {
+                    "correct": false,
+                    "text": "Eva's Research Orders"
+                },
+                {
+                    "correct": true,
+                    "text": "Bavsargra's Arms Orders"
+                }
+            ],
+            "id": "300054",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "BSR is a rarity exclusive to...",
+            "text": "BSR is a rarity exclusive to...",
+            "us": false,
+            "x": false
+        }
     ]
 }

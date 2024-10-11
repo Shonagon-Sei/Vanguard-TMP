@@ -197,6 +197,99 @@
             "text": "Destined Ones Fighters",
             "us": false,
             "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "royal"
+                    ],
+                    "answer": "royal paladin"
+                },
+                {
+                    "alt": [
+                        "oracle",
+                        "ott"
+                    ],
+                    "answer": "oracle think tank"
+                },
+                {
+                    "alt": [
+                        "shadow"
+                    ],
+                    "answer": "shadow paladin"
+                },
+                {
+                    "alt": [
+                        "angel"
+                    ],
+                    "answer": "angel feather"
+                },
+                {
+                    "alt": [
+                        "gold"
+                    ],
+                    "answer": "gold paladin"
+                },
+                {
+                    "alt": [
+                        "jenesis"
+                    ],
+                    "answer": "genesis"
+                }
+            ],
+            "id": "500004",
+            "text": "Clans in United Sanctuary/Keter Sanctuary",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "keter",
+                        "ks"
+                    ],
+                    "answer": "keter sanctuary"
+                },
+                {
+                    "alt": [
+                        "de"
+                    ],
+                    "answer": "dragon empire"
+                },
+                {
+                    "alt": [
+                        
+                    ],
+                    "answer": "stoicheia"
+                },
+                {
+                    "alt": [
+                        "ds",
+                        "dark states"
+                    ],
+                    "answer": "dark states"
+                },
+                {
+                    "alt": [
+                        "lm",
+                        "lyrical"
+                    ],
+                    "answer": "lyrical monasterio"
+                },
+                {
+                    "alt": [
+                        "bg",
+                        "brandt gate"
+                    ],
+                    "answer": "brandt gate"
+                }
+            ],
+            "id": "500005",
+            "text": "Vanguard Nations in D that aren't collabs",
+            "us": false,
+            "x": false
         }
     ]
 }

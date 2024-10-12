@@ -1457,6 +1457,114 @@
             "text": "BSR is a rarity exclusive to...",
             "us": false,
             "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Shiranui Player can use the Order's Ability"
+                },
+                {
+                    "correct": true,
+                    "text": "Bavsragra Player can use the Order's Ability"
+                },
+                {
+                    "correct": false,
+                    "text": "Both players can choose to use the Order's Ability"
+                },
+                {
+                    "correct": false,
+                    "text": "No one can use the Order's Ability"
+                }
+            ],
+            "id": "300055",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "If Bavsargra got dominated... What happens to Sealed Blaze Gun, Chandra?",
+            "text": "If Bavsargra got dominated... What happens to Sealed Blaze Gun, Chandra?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Nothing Happens"
+                },
+                {
+                    "correct": false,
+                    "text": "Bavsargra gets 10k power and Shiranui player can deal 1 damage to the Bavsargra player"
+                },
+                {
+                    "correct": true,
+                    "text": "Bavsargra gets 10k power and Bavsargra player can deal 1 damage to the Shiranui player"
+                },
+                {
+                    "correct": false,
+                    "text": "Bavsargra only gets 10k power"
+                }
+            ],
+            "id": "300056",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "If Bavsargra got dominated... What happens to Sealed Blaze Sword, Prithivith?",
+            "text": "If Bavsargra got dominated... What happens to Sealed Blaze Sword, Prithivith?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "3"
+                },
+                {
+                    "correct": false,
+                    "text": "2"
+                },
+                {
+                    "correct": false,
+                    "text": "1"
+                },
+                {
+                    "correct": false,
+                    "text": "0"
+                }
+            ],
+            "id": "300057",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "If Crossing Illumirays is in the drop zone. How many orders does it count for Flowseria?",
+            "text": "If Crossing Illumirays is in the drop zone. How many orders does it count for Flowseria?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Steam Battler, Gungnram"
+                },
+                {
+                    "correct": false,
+                    "text": "Aurora Battle Princess, Perio Turquoise"
+                },
+                {
+                    "correct": false,
+                    "text": "Ancestral Dragon King of Zenith Colors, Founaherdio"
+                },
+                {
+                    "correct": false,
+                    "text": "Refresh Time, Portia"
+                }
+            ],
+            "id": "300058",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "Which card got a Persona Ride Misprint?",
+            "text": "Which card got a Persona Ride Misprint?",
+            "us": false,
+            "x": false
         }
     ]
 }

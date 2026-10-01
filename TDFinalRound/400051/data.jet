@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQ"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "Q",
+   "s": "Cards completely banned in Standard (as of October 2026)"
+  }
+ ]
+}

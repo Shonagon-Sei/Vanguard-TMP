@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQ"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "Q",
+   "s": "Ride lines allowed to use a G deck in Standard (as of October 2026)"
+  }
+ ]
+}

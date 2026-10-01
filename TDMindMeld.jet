@@ -290,6 +290,225 @@
             "text": "Vanguard Nations in D that aren't collabs",
             "us": false,
             "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "zeroth dragon of zenith peak",
+                        "zenith peak"
+                    ],
+                    "answer": "ultima"
+                },
+                {
+                    "alt": [
+                        "zeroth dragon of inferno",
+                        "inferno"
+                    ],
+                    "answer": "drachma"
+                },
+                {
+                    "alt": [
+                        "zeroth dragon of destroy star",
+                        "destroy star"
+                    ],
+                    "answer": "stark"
+                },
+                {
+                    "alt": [
+                        "zeroth dragon of end of the world",
+                        "end of the world"
+                    ],
+                    "answer": "dust"
+                },
+                {
+                    "alt": [
+                        "meggido",
+                        "zeroth dragon of distant sea",
+                        "distant sea"
+                    ],
+                    "answer": "megiddo"
+                },
+                {
+                    "alt": [
+                        "zeroth dragon of death garden",
+                        "death garden"
+                    ],
+                    "answer": "zoa"
+                }
+            ],
+            "id": "500006",
+            "text": "Zeroth Dragons",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "us",
+                        "sanctuary"
+                    ],
+                    "answer": "united sanctuary"
+                },
+                {
+                    "alt": [
+                        "de"
+                    ],
+                    "answer": "dragon empire"
+                },
+                {
+                    "alt": [
+                        "dz"
+                    ],
+                    "answer": "dark zone"
+                },
+                {
+                    "alt": [
+                        "stargate",
+                        "sg"
+                    ],
+                    "answer": "star gate"
+                },
+                {
+                    "alt": [
+                        "megallanica",
+                        "magellanica",
+                        "megalanica"
+                    ],
+                    "answer": "magallanica"
+                },
+                {
+                    "alt": [],
+                    "answer": "zoo"
+                }
+            ],
+            "id": "500007",
+            "text": "The Six Nations of Classic Planet Cray (Before D)",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "akina myodo"
+                    ],
+                    "answer": "akina"
+                },
+                {
+                    "alt": [
+                        "kagetsu yakumo"
+                    ],
+                    "answer": "kagetsu"
+                },
+                {
+                    "alt": [
+                        "suo yobitsugi"
+                    ],
+                    "answer": "suo"
+                },
+                {
+                    "alt": [
+                        "erika myojo",
+                        "future hikari"
+                    ],
+                    "answer": "erika"
+                },
+                {
+                    "alt": [
+                        "megumi okura"
+                    ],
+                    "answer": "megumi"
+                },
+                {
+                    "alt": [
+                        "mirei minae"
+                    ],
+                    "answer": "mirei"
+                },
+                {
+                    "alt": [
+                        "michiru hazama"
+                    ],
+                    "answer": "michiru"
+                },
+                {
+                    "alt": [
+                        "ruka miyako"
+                    ],
+                    "answer": "ruka"
+                }
+            ],
+            "id": "500008",
+            "text": "Divinez Third DELUXE Finalists",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [],
+                    "answer": "kairi"
+                },
+                {
+                    "alt": [],
+                    "answer": "kiyora"
+                },
+                {
+                    "alt": [],
+                    "answer": "nanami"
+                },
+                {
+                    "alt": [],
+                    "answer": "mion"
+                },
+                {
+                    "alt": [],
+                    "answer": "misa"
+                },
+                {
+                    "alt": [],
+                    "answer": "kanami"
+                }
+            ],
+            "id": "500009",
+            "text": "Members of the Idol Group Astesice",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [],
+                    "answer": "clarissa"
+                },
+                {
+                    "alt": [
+                        "katalin",
+                        "catalyn"
+                    ],
+                    "answer": "katalyn"
+                },
+                {
+                    "alt": [],
+                    "answer": "leona"
+                },
+                {
+                    "alt": [],
+                    "answer": "trilby"
+                },
+                {
+                    "alt": [
+                        "evelin"
+                    ],
+                    "answer": "evelyn"
+                }
+            ],
+            "id": "500010",
+            "text": "Members of Earnescorrect",
+            "us": false,
+            "x": false
         }
     ]
 }

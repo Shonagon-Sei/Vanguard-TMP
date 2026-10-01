@@ -1103,7 +1103,7 @@
                     "text": "Poppin'Party"
                 },
                 {
-                    "correct": true,
+                    "correct": false,
                     "difficulty": 0,
                     "text": "MyGO!!!!!"
                 },
@@ -1123,18 +1123,18 @@
                     "text": "Morfonica"
                 },
                 {
-                    "correct": true,
+                    "correct": false,
                     "difficulty": 0,
                     "text": "Pastel*Palettes"
-                } ,
+                },
                 {
                     "correct": false,
                     "difficulty": 0,
                     "text": "Ave Mujica"
-                }                  
+                }
             ],
             "id": "400020",
-            "text": "BanG Dream! bands that sang for Vanguard medias"
+            "text": "BanG Dream! bands that sang a Vanguard anime OPENING"
         },
         {
             "choices": [
@@ -1242,37 +1242,7 @@
                 {
                     "correct": true,
                     "difficulty": 0,
-                    "text": "Nao Inabe"
-                },
-                {
-                    "correct": false,
-                    "difficulty": 0,
-                    "text": "Jinki Mukae"
-                },
-                {
-                    "correct": false,
-                    "difficulty": 0,
-                    "text": "Yuna Saionji"
-                },
-                {
-                    "correct": true,
-                    "difficulty": 0,
-                    "text": "Taizo Kiyokura"
-                },
-                {
-                    "correct": true,
-                    "difficulty": 0,
-                    "text": "Masanori Iseki"
-                },
-                {
-                    "correct": true,
-                    "difficulty": 0,
-                    "text": "Mikoto Saito"
-                },
-                {
-                    "correct": true,
-                    "difficulty": 0,
-                    "text": "Suo Yobitsugi"
+                    "text": "Aichi Sendou"
                 },
                 {
                     "correct": false,
@@ -1280,30 +1250,75 @@
                     "text": "Akina Myodo"
                 },
                 {
-                    "correct": false,
+                    "correct": true,
                     "difficulty": 0,
-                    "text": "Kyohma Kurosaki"
+                    "text": "Toshiki Kai"
                 },
                 {
                     "correct": false,
                     "difficulty": 0,
-                    "text": "Kuon Aikawa"
-                }                   
+                    "text": "Ren Suzugamori"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Chrono Shindou"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kouji Ibuki"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Tokoha Anjou"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Shinemon Nitta"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Misaki Tokura"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Yu-yu Kondo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Danji Momoyama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zero Tendo"
+                }
             ],
             "id": "400023",
-            "text": "Characters on an Energy Generator"
+            "text": "Characters with a \"The Legendary Vanguard\" trigger card"
         },
         {
             "choices": [
                 {
                     "correct": true,
                     "difficulty": 0,
-                    "text": "Dragon Empire"
+                    "text": "Future Card Buddyfight"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Inazuma Eleven"
                 },
                 {
                     "correct": true,
                     "difficulty": 0,
-                    "text": "Brandt Gate"
+                    "text": "Touken Ranbu"
                 },
                 {
                     "correct": false,
@@ -1311,9 +1326,14 @@
                     "text": "Monster Strike"
                 },
                 {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "SHAMAN KING"
+                },
+                {
                     "correct": true,
                     "difficulty": 0,
-                    "text": "Stoicheia"
+                    "text": "BanG Dream!"
                 },
                 {
                     "correct": false,
@@ -1321,23 +1341,28 @@
                     "text": "Record of Ragnarok"
                 },
                 {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Frieren"
+                },
+                {
                     "correct": true,
                     "difficulty": 0,
-                    "text": "SHAMAN KING"
+                    "text": "Persona"
                 },
                 {
                     "correct": false,
                     "difficulty": 0,
-                    "text": "Lyrical Monasterio"
+                    "text": "Like a Dragon"
                 },
                 {
                     "correct": false,
                     "difficulty": 0,
-                    "text": "Keter Sanctuary"
-                }                   
+                    "text": "VSPO!"
+                }
             ],
             "id": "400024",
-            "text": "D Nations that can generate tokens"
+            "text": "Franchises that got a Title Booster in the Divinez (DZ) era"
         },
         {
             "choices": [
@@ -1504,7 +1529,7 @@
                     "text": "Knight of Insolation, Carinus"
                 },
                 {
-                    "correct": true,
+                    "correct": false,
                     "difficulty": 0,
                     "text": "Esteemed Deity of Abundant Waters, Ichikishima"
                 },
@@ -1524,7 +1549,7 @@
                     "text": "Dragon Knight, Nizari"
                 },
                 {
-                    "correct": true,
+                    "correct": false,
                     "difficulty": 0,
                     "text": "Turmoil Star-vader, Zinc"
                 },
@@ -1534,9 +1559,9 @@
                     "text": "Dragonic Vanquisher \"FULLBRONTO\""
                 },
                 {
-                    "correct": false,
+                    "correct": true,
                     "difficulty": 0,
-                    "text": "Fabricated Dragon of Ruination"
+                    "text": "Reverence Rush Dragon"
                 },
                 {
                     "correct": false,
@@ -1544,14 +1569,29 @@
                     "text": "Doctoroid Refros"
                 },
                 {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Sea Strike Dragon, Enlargulv"
+                },
+                {
                     "correct": false,
                     "difficulty": 0,
                     "text": "Eradicator, Sweep Command Dragon"
                 },
                 {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Witch of Frogs, Melissa"
+                },
+                {
                     "correct": false,
                     "difficulty": 0,
                     "text": "Conquering Supreme Dragon, Stunverse Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Evil God Pontiff, Gastille Daimonas"
                 },
                 {
                     "correct": false,
@@ -1562,7 +1602,7 @@
                     "correct": false,
                     "difficulty": 0,
                     "text": "Enigmatic Assassin"
-                }                   
+                }
             ],
             "id": "400027",
             "text": "Current Completely Restricted Cards in Premium (EN Banlist)"
@@ -2104,6 +2144,1721 @@
             ],
             "id": "400035",
             "text": "Rarities that exist in Vanguard"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nova Grappler"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Oracle Think Tank"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Royal Paladin"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Granblue"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dark Irregulars"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bermuda Triangle"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Megacolony"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kagero"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tachikaze"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Great Nature"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Spike Brothers"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Pale Moon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nubatama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dimension Police"
+                }
+            ],
+            "id": "400036",
+            "text": "Clans that debuted in Booster Set 1"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Royal Paladin"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Gold Paladin"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Shadow Paladin"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Narukami"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kagero"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Oracle Think Tank"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nova Grappler"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Angel Feather"
+                }
+            ],
+            "id": "400037",
+            "text": "Clans sealed away at the start of Asia Circuit"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragritter, Nirmihn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Destined One of Scales, Aelquilibra"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragon Deity King of Resurgence, Dragveda"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bluish Flame Liberator, Prominence Core"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dauntless Drive Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Gaias"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Transcendence Dragon, Dragonic Nouvelle Vague"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fated One of Unparalleled, Varga Dragres"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Chronojet Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Blademaster"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vortex Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Waterfall"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord the End"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Kaiser Vermillion"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Burnout"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Vanquisher"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Phantom Blaster Dragon"
+                }
+            ],
+            "id": "400038",
+            "text": "Units that are Flame Dragons"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord \"The Legend\""
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord the End"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blaster Blade Liberator"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Kaiser Vermillion"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Phantom Blaster Overlord"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Star-vader, Chaos Breaker Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Glory Maelstrom"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord \"The Re-birth\""
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Blaster Blade Seeker"
+                }
+            ],
+            "id": "400039",
+            "text": "Kai's avatars in the original series (2011-2014)"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team S.I.T. Genius"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Caesar"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team New AL4"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Seven Seas"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team Dreadnought"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Lao"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Team Q4"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Team Ninja"
+                }
+            ],
+            "id": "400040",
+            "text": "Teams that won a VF Circuit stage"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "JAM Project"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Milky Holmes"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Psychic Lover"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "STARMARIE"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "DAIGO"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mamoru Miyano"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rummy Labyrinth"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "BREAKERZ"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Roselia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yui Ogura"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "GYROAXIA"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Strawberry Prince"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kis-My-Ft2"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "V.W.P"
+                }
+            ],
+            "id": "400041",
+            "text": "Artists that sang an OPENING theme for a Vanguard TV anime"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Legendary"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "UNSTOPPABLE"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "XV"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "INVINCIBLE FIGHTER"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "ZEAL of proud"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Takin' my Heart"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "HEROIC ADVENT"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Destiny Calls"
+                }
+            ],
+            "id": "400042",
+            "text": "Roselia songs used in the Vanguard anime"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Suo Yobitsugi"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Akina Myodo"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kuon Aikawa"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kanami"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jinki Mukae"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nao Inabe"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Michiru Hazama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mikoto Saito"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kurumi"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kagetsu Yakumo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ryuga Fushimi"
+                }
+            ],
+            "id": "400043",
+            "text": "Divinez characters with blood type AB"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kuon Aikawa"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Suo Yobitsugi"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Taizo Kiyokura"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kyohma Kurosaki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jinki Mukae"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Masanori Iseki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mikoto Saito"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yuna Saionji"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nao Inabe"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Senka Kanae"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hikari Myodo (Present)"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Akina Myodo"
+                }
+            ],
+            "id": "400044",
+            "text": "Fighters who WON their Destined Showdown match"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Suo Yobitsugi"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Akina Myodo"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hikari Myodo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kurumi"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Erika Myojo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kyohma Kurosaki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Urara Haneyama"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yuna Saionji"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Raika Koshiba"
+                }
+            ],
+            "id": "400045",
+            "text": "Divinez characters whose star sign is Aquarius"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Zero Tendo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yuki Ichidoji"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Shiki Otei"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Otowa Dosaki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Suina Iitomaki"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Asuka Matsumoto"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Reiryu Shishika"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Olivier Gaillard"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Akina Myodo"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Aichi Sendou"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Haruho Kira"
+                }
+            ],
+            "id": "400046",
+            "text": "Characters that appear in the Skyride manga"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Lake Euclark"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Gyze End Bay"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dangerous Zone"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Despair Peaks"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Stark Lake"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lettia Great Canyon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Megiddo Bay"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Longhorn Mountains"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Zoa Caldera"
+                }
+            ],
+            "id": "400047",
+            "text": "Landmarks created by a Zeroth Dragon's attack"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dimension Police"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Gear Chronicle"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nova Grappler"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Aqua Force"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Link Joker"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Oracle Think Tank"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Megacolony"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Angel Feather"
+                }
+            ],
+            "id": "400048",
+            "text": "Clans that renamed their nation to Brandt Gate"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gastille"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Chaos Breaker"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Valeos"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Shiranui"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gredora"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Luard"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zenon"
+                }
+            ],
+            "id": "400049",
+            "text": "Gyze's three great apostles in the first Dyad Deity War"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rezael"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Alden"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Liael=Amorta"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Welstra"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Liael=Draconis"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blangdmire"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Liael=Odium"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zorga Nadir"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Krysrain"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lisciafael"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Varga Dragres"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Impauldio"
+                }
+            ],
+            "id": "400050",
+            "text": "Fated Ones and Destined Ones whose race is Angel"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Defensing Roar"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vairlord"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Aurora Battle Princess, Derii Violet"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Trickmoon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Bustling Bleachers"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Knight of Excision, Diorruing"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Summon Crow Mage, Corvoll"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Magic of Cycling Wind, Parryris"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Magic of Colored Flame, Rerelihm"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hymn Brimming With Mercy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Sleeve Tugging Belle"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lightning Heat Monster, Moeflash"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Strange Food Preparation"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Flowering Sweet Shop"
+                }
+            ],
+            "id": "400051",
+            "text": "Cards completely banned in Standard (as of October 2026)"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Divine Skill"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Regalis Piece"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Malwyrm"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Glitter"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Happy Toys"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Volundr"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SweetLink"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Friend"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fantome Skill"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bloom"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Unique Skill"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Homare"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ace Unit"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dangerous Skill"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Call Cost"
+                }
+            ],
+            "id": "400052",
+            "text": "Keywords first introduced in the Divinez (DZ) era"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Touken Ranbu"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "hololive"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Monster Strike"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Frieren"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SHAMAN KING"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Like a Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Record of Ragnarok"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Love and Berry"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "BanG Dream!"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "VSPO!"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "CoroCoro"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Buddyfight"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Inazuma Eleven"
+                }
+            ],
+            "id": "400053",
+            "text": "Official collaboration nations"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Chronojet Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Alter Ego Messiah"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blaster Blade"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Demon Stealth Dragon, Shiranui \"Oboro\""
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fated One of Unparalleled, Varga Dragres"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragheart, Luard"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Phantom Blaster Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Masked Magician, Harri"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vampire Princess of Night Fog, Nightrose"
+                }
+            ],
+            "id": "400054",
+            "text": "Ride lines allowed to use a G deck in Standard (as of October 2026)"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Kaiser Vermillion"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Twin Buckler Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Star-vader, Chaos Breaker Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dusty Plasma Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Thundering Dragon King of Battle Dust, Shadlanahda"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blue Storm Dragon, Maelstrom"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Seal Dragon, Blockade"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Storm Slasher Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rewrite the Star, Vyrgilla"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Sealed Demon Dragon, Dungaree"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Thunder Break Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Blademaster"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Deathscythe"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dragonic Vanquisher"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Eradicator, Vowing Sword Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Detonix Drill Dragon"
+                }
+            ],
+            "id": "400055",
+            "text": "Units that are Thunder Dragons"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Spectral Duke Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fated One of Unparalleled, Varga Dragres"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Overlord the End"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragon Deity King of Resurgence, Dragveda"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fighting Emperor Dragon, Merciless Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Phantom Blaster Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Revenger, Raging Form Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Deathscythe"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Magia Doll, Lunatec Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Stealth Dragon, Shiranui"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Silver Thorn, Rising Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Shadow Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Phantom Blaster Overlord"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jester Demonic Dragon, Lunatec Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blest Dragon, Gabwelius"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Demonic Lord Dragon, Gabwelius \"Fantome\""
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Star-vader, Chaos Breaker Dragon"
+                }
+            ],
+            "id": "400056",
+            "text": "Units that are Abyss Dragons"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Masergear Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Chrono Dran"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Steam Battler, Gungnram"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rewrite the Star, Vyrgilla"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Chronovisor Heritage"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Interdimensional Dragon, Chronoscommand Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Gearoid"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Brilliant Wings Star Dragon, Vyrgilla"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Star-vader, Chaos Breaker Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blitz Chief Mechanic, Warton"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Timeturner Dragon, Clockwize"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Twin Buckler Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragritter, Nirmihn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Smokegear Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Interdimensional Dragon, Mystery-flare Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Chronojet Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Chronodragon Nextage"
+                }
+            ],
+            "id": "400057",
+            "text": "Units that are Gear Dragons"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Star-vader, Chaos Breaker Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gravity Collapse Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Brilliant Wings Star Dragon, Vyrgilla"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragonic Kaiser Vermillion"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Star-vader, Nebula Lord Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bluish Flame Liberator, Prominence Core"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Abolition Star-vader, Neodymium"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fighting Emperor Dragon, Merciless Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Star-vader, Infinite Zero Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blest Dragon, Gabwelius"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Aperture Star-vader, Quantum"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Schwarzschild Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Death Star-vader, Quintessence Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rewrite the Star, Vyrgilla"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vyrgilla, \"Rewrite Form: Alfknights\""
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Interdimensional Dragon, Mystery-flare Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Chronojet Dragon"
+                }
+            ],
+            "id": "400058",
+            "text": "Units that are Cyber Dragons"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Demonic Lord, Dudley Emperor"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragritter, Nirmihn"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Steam Battler, Gungnram"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Magia Doll, Lunatec Dragon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Oracle Guardian, Gemini"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bandmaster of Blossoming Bonds, Lianorn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Destined One of Exceedance, Impauldio"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Super Dimensional Robo, Daiyusha"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nightmare Doll, Alice"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Metalborg, Sin Buster"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ultimate Raizer Mega-flare"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Abolition Star-vader, Neodymium"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Queen of Heart"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "War Deity, Asura Kaiser"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Aid-roid, Lamedo"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Strongest Beast Deity, Ethics Buster Extreme"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blitz Fleet Admiral, Welstra \"Fantome\""
+                }
+            ],
+            "id": "400059",
+            "text": "Units that are Battleroids"
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Queen of Heart"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nightmare Doll, Alice"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Burgermeal, Roid Mode"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Demonic Lord, Dudley Emperor"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dragritter, Nirmihn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jumping Jill"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Oracle Guardian, Gemini"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blitz Fleet Admiral, Welstra \"Fantome\""
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Magia Doll, Lunatec Dragon"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Super Dimensional Robo, Daiyusha"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Silver Thorn Marionette, Lilian"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Workerpod, Saturday"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Perfect Referee, 2.99"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Steam Battler, Gungnram"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bandmaster of Blossoming Bonds, Lianorn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mecha Trainer"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Aperture Star-vader, Quantum"
+                }
+            ],
+            "id": "400060",
+            "text": "Units that are Workeroids"
         }
                          
     ]

@@ -798,7 +798,7 @@
                     "text": "Mega Colony"
                 },
                 {
-                    "correct": true,
+                    "correct": false,
                     "text": "Gold Paladin"
                 }
             ],
@@ -1563,6 +1563,2382 @@
             "outro": null,
             "questionAudio": "Which card got a Persona Ride Misprint?",
             "text": "Which card got a Persona Ride Misprint?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Matt"
+                },
+                {
+                    "correct": false,
+                    "text": "Nguyen"
+                },
+                {
+                    "correct": true,
+                    "text": "Matthew"
+                },
+                {
+                    "correct": false,
+                    "text": "Paul"
+                }
+            ],
+            "id": "300059",
+            "introAudio": "Talking about some recent events...",
+            "outro": null,
+            "questionAudio": "In 19th December 2025, Iyako got an email to shutdown vg-iyako.me, who sent the email?",
+            "text": "In 19th December 2025, Iyako got an email to shutdown vg-iyako.me, who sent the email?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "50000"
+                },
+                {
+                    "correct": true,
+                    "text": "100000"
+                },
+                {
+                    "correct": false,
+                    "text": "150000"
+                },
+                {
+                    "correct": false,
+                    "text": "1000000"
+                }
+            ],
+            "id": "300060",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In the first chapter of Cardfight!! Vanguard: Skyride, how much power did Zero Tendo's vanguard have during the final attack?",
+            "text": "In the first chapter of Cardfight!! Vanguard: Skyride, how much power did Zero Tendo's vanguard have during the final attack?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Shiki Otei"
+                },
+                {
+                    "correct": false,
+                    "text": "Haruho Kira"
+                },
+                {
+                    "correct": true,
+                    "text": "Reiryu Shishika"
+                },
+                {
+                    "correct": false,
+                    "text": "Zairu Soga"
+                }
+            ],
+            "id": "300061",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In Skyride Volume 3, which Team Blast Elite Four member defeats Suina?",
+            "text": "In Skyride Volume 3, which Team Blast Elite Four member defeats Suina?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Force Markers"
+                },
+                {
+                    "correct": true,
+                    "text": "Sentinels"
+                },
+                {
+                    "correct": false,
+                    "text": "+Power from Blitz Orders"
+                },
+                {
+                    "correct": false,
+                    "text": "Critical Triggers"
+                }
+            ],
+            "id": "300062",
+            "introAudio": "",
+            "outro": null,
+            "questionAudio": "Which of the following affects Gyze and the other Zeroths?",
+            "text": "Which of the following affects Gyze and the other Zeroths?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Toshiki Kai"
+                },
+                {
+                    "correct": false,
+                    "text": "Ren Suzugamori"
+                },
+                {
+                    "correct": false,
+                    "text": "Aichi Sendou"
+                },
+                {
+                    "correct": false,
+                    "text": "Kyou Yahagi"
+                }
+            ],
+            "id": "300063",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which character introduced the phrase \"Final Turn!\" in the anime?",
+            "text": "Which character introduced the phrase \"Final Turn!\" in the anime?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Kouji Ibuki"
+                },
+                {
+                    "correct": false,
+                    "text": "Ren Suzugamori"
+                },
+                {
+                    "correct": false,
+                    "text": "Taishi Miwa"
+                },
+                {
+                    "correct": false,
+                    "text": "Tetsu Shinjou"
+                }
+            ],
+            "id": "300064",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Kai says \"Stand up, THE Vanguard!\" Which childhood friend did he pick up the extra \"THE\" from?",
+            "text": "Kai says \"Stand up, THE Vanguard!\" Which childhood friend did he pick up the extra \"THE\" from?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Quadrifoglio"
+                },
+                {
+                    "correct": false,
+                    "text": "Quatre"
+                },
+                {
+                    "correct": false,
+                    "text": "Quartet"
+                },
+                {
+                    "correct": false,
+                    "text": "Quadruple"
+                }
+            ],
+            "id": "300065",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What does the \"Q4\" in Team Q4 stand for?",
+            "text": "What does the \"Q4\" in Team Q4 stand for?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Team Dreadnought"
+                },
+                {
+                    "correct": false,
+                    "text": "Team S.I.T. Genius"
+                },
+                {
+                    "correct": false,
+                    "text": "Team Q4"
+                },
+                {
+                    "correct": false,
+                    "text": "Team New AL4"
+                }
+            ],
+            "id": "300066",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which team won the Hong Kong stage of the VF Circuit?",
+            "text": "Which team won the Hong Kong stage of the VF Circuit?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Narukami"
+                },
+                {
+                    "correct": false,
+                    "text": "Gold Paladin"
+                },
+                {
+                    "correct": false,
+                    "text": "Aqua Force"
+                },
+                {
+                    "correct": false,
+                    "text": "Link Joker"
+                }
+            ],
+            "id": "300067",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "With Kagero sealed away in Asia Circuit, which clan did Kai switch to?",
+            "text": "With Kagero sealed away in Asia Circuit, which clan did Kai switch to?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Toshiki Kai"
+                },
+                {
+                    "correct": true,
+                    "text": "Kourin Tatsunagi"
+                },
+                {
+                    "correct": false,
+                    "text": "Rekka Tatsunagi"
+                },
+                {
+                    "correct": false,
+                    "text": "Maki Nagashiro"
+                }
+            ],
+            "id": "300068",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who reversed Kamui during the Link Joker arc?",
+            "text": "Who reversed Kamui during the Link Joker arc?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Junos"
+                },
+                {
+                    "correct": false,
+                    "text": "Alfred"
+                },
+                {
+                    "correct": false,
+                    "text": "Gancelot"
+                },
+                {
+                    "correct": true,
+                    "text": "Ahmes"
+                }
+            ],
+            "id": "300069",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "\"Blaster Blade\" is actually the name of the sword. What is the name of the knight wielding it on the card?",
+            "text": "\"Blaster Blade\" is actually the name of the sword. What is the name of the knight wielding it on the card?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Excalibur"
+                },
+                {
+                    "correct": true,
+                    "text": "Exculpator"
+                },
+                {
+                    "correct": false,
+                    "text": "Burst Buster"
+                },
+                {
+                    "correct": false,
+                    "text": "Blaster Photon Blade"
+                }
+            ],
+            "id": "300070",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "According to Akira Ito, what was Blaster Blade originally going to be called?",
+            "text": "According to Akira Ito, what was Blaster Blade originally going to be called?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Ultimate Minerva rides as normal"
+                },
+                {
+                    "correct": true,
+                    "text": "You lose the fight"
+                },
+                {
+                    "correct": false,
+                    "text": "You can't use the ACT at all"
+                },
+                {
+                    "correct": false,
+                    "text": "You ride a card from your hand instead"
+                }
+            ],
+            "id": "300071",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "You played Primordial Heartblaze this turn. Then you use the soul ACT of Ultimate Regalia of Almighty, Minerva, binding your Omniscience Regalia, Minerva on (V). What happens?",
+            "text": "You played Primordial Heartblaze this turn. Then you use the soul ACT of Ultimate Regalia of Almighty, Minerva, binding your Omniscience Regalia, Minerva on (V). What happens?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Gale Soul Strike"
+                },
+                {
+                    "correct": false,
+                    "text": "Eternal Flame"
+                },
+                {
+                    "correct": false,
+                    "text": "Burst Buster"
+                },
+                {
+                    "correct": false,
+                    "text": "Blaster Photon Blade"
+                }
+            ],
+            "id": "300072",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the name of Chronojet Dragon's attack in the anime?",
+            "text": "What is the name of Chronojet Dragon's attack in the anime?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Generation Stride (G-BT01)"
+                },
+                {
+                    "correct": false,
+                    "text": "Awakening of the Interdimensional Dragon (G-TD01)"
+                },
+                {
+                    "correct": true,
+                    "text": "Neon Messiah (Movie Booster)"
+                },
+                {
+                    "correct": false,
+                    "text": "Descent of the King of Knights (BT01)"
+                }
+            ],
+            "id": "300073",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "The Stride keyword was first introduced in which product?",
+            "text": "The Stride keyword was first introduced in which product?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Legion"
+                },
+                {
+                    "correct": false,
+                    "text": "Break Ride"
+                },
+                {
+                    "correct": true,
+                    "text": "Lock"
+                },
+                {
+                    "correct": false,
+                    "text": "Limit Break"
+                }
+            ],
+            "id": "300074",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which mechanic debuted in Trial Deck 11: Star-vader Invasion?",
+            "text": "Which mechanic debuted in Trial Deck 11: Star-vader Invasion?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "It is bound"
+                },
+                {
+                    "correct": false,
+                    "text": "It is retired"
+                },
+                {
+                    "correct": true,
+                    "text": "It stays on (RC)"
+                },
+                {
+                    "correct": false,
+                    "text": "It is retired, then bound from the drop zone"
+                }
+            ],
+            "id": "300075",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Bracing Angel Ladder stops your rear-guards being chosen or moved off (RC) by opponent's effects. A Dragonic Kaiser Vermillion with Eternal Thunderbolt's bind-instead-of-retire hits one. What happens?",
+            "text": "Bracing Angel Ladder stops your rear-guards being chosen or moved off (RC) by opponent's effects. A Dragonic Kaiser Vermillion with Eternal Thunderbolt's bind-instead-of-retire hits one. What happens?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Descent of the King of Knights"
+                },
+                {
+                    "correct": true,
+                    "text": "Unite! Team Q4"
+                },
+                {
+                    "correct": false,
+                    "text": "Generation Stride"
+                },
+                {
+                    "correct": false,
+                    "text": "Genesis of the Five Greats"
+                }
+            ],
+            "id": "300076",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What was the name of the very first V Series booster set?",
+            "text": "What was the name of the very first V Series booster set?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Narukami"
+                },
+                {
+                    "correct": false,
+                    "text": "Shadow Paladin"
+                },
+                {
+                    "correct": false,
+                    "text": "Link Joker"
+                },
+                {
+                    "correct": true,
+                    "text": "Kagero"
+                }
+            ],
+            "id": "300077",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Tokoha's brother, Mamoru Anjou, is the Clan Leader of which clan?",
+            "text": "Tokoha's brother, Mamoru Anjou, is the Clan Leader of which clan?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Chrono Shindou"
+                },
+                {
+                    "correct": false,
+                    "text": "Tokoha Anjou"
+                },
+                {
+                    "correct": false,
+                    "text": "Kouji Ibuki"
+                },
+                {
+                    "correct": true,
+                    "text": "Shion Kiba"
+                }
+            ],
+            "id": "300078",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which G series character says \"C'est fini\" after winning a fight?",
+            "text": "Which G series character says \"C'est fini\" after winning a fight?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Third-rate dregs"
+                },
+                {
+                    "correct": false,
+                    "text": "Three Stooges"
+                },
+                {
+                    "correct": false,
+                    "text": "Small fry"
+                },
+                {
+                    "correct": false,
+                    "text": "Bunch of losers"
+                }
+            ],
+            "id": "300079",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Team Trinity Dragon got its name by mishearing which insult from Kyou Yahagi?",
+            "text": "Team Trinity Dragon got its name by mishearing which insult from Kyou Yahagi?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Mamoru Miyano"
+                },
+                {
+                    "correct": false,
+                    "text": "Takuya Sato"
+                },
+                {
+                    "correct": false,
+                    "text": "Tsubasa Yonaga"
+                },
+                {
+                    "correct": false,
+                    "text": "Mark Ishii"
+                }
+            ],
+            "id": "300080",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Kouji Ibuki's Japanese voice actor also sang the first G opening, \"Break It!\". Who is he?",
+            "text": "Kouji Ibuki's Japanese voice actor also sang the first G opening, \"Break It!\". Who is he?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "TMS Entertainment"
+                },
+                {
+                    "correct": false,
+                    "text": "Kinema Citrus"
+                },
+                {
+                    "correct": true,
+                    "text": "OLM"
+                },
+                {
+                    "correct": false,
+                    "text": "Double Eagle"
+                }
+            ],
+            "id": "300081",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which studio took over the anime's animation starting with G NEXT?",
+            "text": "Which studio took over the anime's animation starting with G NEXT?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "39"
+                },
+                {
+                    "correct": false,
+                    "text": "52"
+                },
+                {
+                    "correct": true,
+                    "text": "65"
+                },
+                {
+                    "correct": false,
+                    "text": "59"
+                }
+            ],
+            "id": "300082",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many episodes did the very first season of the anime (2011-2012) have?",
+            "text": "How many episodes did the very first season of the anime (2011-2012) have?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Raika Koshiba"
+                },
+                {
+                    "correct": true,
+                    "text": "Yu-yu Kondo"
+                },
+                {
+                    "correct": false,
+                    "text": "Tohya Ebata"
+                },
+                {
+                    "correct": false,
+                    "text": "Michiru Hazama"
+                }
+            ],
+            "id": "300083",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who won the very first DELUXE tournament in will+Dress?",
+            "text": "Who won the very first DELUXE tournament in will+Dress?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Mari Tominaga"
+                },
+                {
+                    "correct": false,
+                    "text": "Satoru Isono"
+                },
+                {
+                    "correct": true,
+                    "text": "CLAMP"
+                },
+                {
+                    "correct": false,
+                    "text": "Akira Ito"
+                }
+            ],
+            "id": "300084",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who drew the draft character designs for overDress?",
+            "text": "Who drew the draft character designs for overDress?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "TMS Entertainment"
+                },
+                {
+                    "correct": false,
+                    "text": "OLM"
+                },
+                {
+                    "correct": false,
+                    "text": "Kinema Citrus"
+                },
+                {
+                    "correct": true,
+                    "text": "LIDENFILMS"
+                }
+            ],
+            "id": "300085",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which studio animated the 2014 film \"Neon Messiah\"?",
+            "text": "Which studio animated the 2014 film \"Neon Messiah\"?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Blaster Blade Liberator"
+                },
+                {
+                    "correct": true,
+                    "text": "Blaster Keroro"
+                },
+                {
+                    "correct": false,
+                    "text": "Exculpate the Blaster"
+                },
+                {
+                    "correct": false,
+                    "text": "Blaster Dark Revenger"
+                }
+            ],
+            "id": "300086",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which promo card came bundled with the 2012 Cardfight!! Vanguard novel?",
+            "text": "Which promo card came bundled with the 2012 Cardfight!! Vanguard novel?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Mamoru Miyano"
+                },
+                {
+                    "correct": false,
+                    "text": "Masatoshi Ono"
+                },
+                {
+                    "correct": false,
+                    "text": "Toshiya Miyata"
+                },
+                {
+                    "correct": true,
+                    "text": "DAIGO"
+                }
+            ],
+            "id": "300087",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which singer starred in the 2014 live-action film \"The Three Games\" and sang the Link Joker opening \"Infinite REBIRTH\"?",
+            "text": "Which singer starred in the 2014 live-action film \"The Three Games\" and sang the Link Joker opening \"Infinite REBIRTH\"?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Erika Myojo"
+                },
+                {
+                    "correct": true,
+                    "text": "Akina Myodo"
+                },
+                {
+                    "correct": false,
+                    "text": "Michiru Hazama"
+                },
+                {
+                    "correct": false,
+                    "text": "Ruka Miyako"
+                }
+            ],
+            "id": "300088",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who won the Third DELUXE tournament in Divinez?",
+            "text": "Who won the Third DELUXE tournament in Divinez?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Kuon Aikawa"
+                },
+                {
+                    "correct": false,
+                    "text": "Senka Kanae"
+                },
+                {
+                    "correct": true,
+                    "text": "Hikari Myodo"
+                },
+                {
+                    "correct": false,
+                    "text": "Yuna Saionji"
+                }
+            ],
+            "id": "300089",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In the Destined Showdown, who defeated Akina to tie the score at 3-3?",
+            "text": "In the Destined Showdown, who defeated Akina to tie the score at 3-3?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Nao Inabe"
+                },
+                {
+                    "correct": false,
+                    "text": "Hikari Myodo"
+                },
+                {
+                    "correct": false,
+                    "text": "Future Hikari"
+                },
+                {
+                    "correct": false,
+                    "text": "Gabwelius"
+                }
+            ],
+            "id": "300090",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Akina's motto, \"miracles only descend upon those who reach out\", was originally whose words?",
+            "text": "Akina's motto, \"miracles only descend upon those who reach out\", was originally whose words?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Future Hikari"
+                },
+                {
+                    "correct": false,
+                    "text": "Jinki Mukae"
+                },
+                {
+                    "correct": false,
+                    "text": "Masanori Iseki"
+                },
+                {
+                    "correct": false,
+                    "text": "Yuna Saionji"
+                }
+            ],
+            "id": "300091",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "At the end of the Destined Showdown, who was revealed to have been secretly possessed by Sybilt?",
+            "text": "At the end of the Destined Showdown, who was revealed to have been secretly possessed by Sybilt?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Berucrea"
+                },
+                {
+                    "correct": false,
+                    "text": "Veissrugr"
+                },
+                {
+                    "correct": true,
+                    "text": "Zerith"
+                },
+                {
+                    "correct": false,
+                    "text": "Gabwelius"
+                }
+            ],
+            "id": "300092",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which unit created the Fantasma after hearing Kurumi's wish to live?",
+            "text": "Which unit created the Fantasma after hearing Kurumi's wish to live?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "They're his younger sisters"
+                },
+                {
+                    "correct": false,
+                    "text": "They're his nieces"
+                },
+                {
+                    "correct": false,
+                    "text": "They're his students"
+                },
+                {
+                    "correct": true,
+                    "text": "They're his cousins"
+                }
+            ],
+            "id": "300093",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How are the twins Kurumi and Kanami related to Kagetsu Yakumo?",
+            "text": "How are the twins Kurumi and Kanami related to Kagetsu Yakumo?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Team Blackout"
+                },
+                {
+                    "correct": true,
+                    "text": "Team Twilight"
+                },
+                {
+                    "correct": false,
+                    "text": "Team Daybreak"
+                },
+                {
+                    "correct": false,
+                    "text": "Tirnanog"
+                }
+            ],
+            "id": "300094",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In the Fantasma, Raika Koshiba is the leader of which team?",
+            "text": "In the Fantasma, Raika Koshiba is the leader of which team?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Snow Man"
+                },
+                {
+                    "correct": true,
+                    "text": "Kis-My-Ft2"
+                },
+                {
+                    "correct": false,
+                    "text": "Arashi"
+                },
+                {
+                    "correct": false,
+                    "text": "King & Prince"
+                }
+            ],
+            "id": "300095",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Akina's Japanese voice actor, Toshiya Miyata, is a member of which idol group?",
+            "text": "Akina's Japanese voice actor, Toshiya Miyata, is a member of which idol group?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "RealRomantic"
+                },
+                {
+                    "correct": false,
+                    "text": "V.W.P"
+                },
+                {
+                    "correct": false,
+                    "text": "Kis-My-Ft2"
+                },
+                {
+                    "correct": true,
+                    "text": "Hina Aoki"
+                }
+            ],
+            "id": "300096",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which artist sang both the DELUXE Arc ending \"Amairo\" and the Parallactic Clash opening \"World's End Trigger\"?",
+            "text": "Which artist sang both the DELUXE Arc ending \"Amairo\" and the Parallactic Clash opening \"World's End Trigger\"?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Senka Kanae"
+                },
+                {
+                    "correct": false,
+                    "text": "Gui"
+                },
+                {
+                    "correct": false,
+                    "text": "Michiru Hazama"
+                },
+                {
+                    "correct": true,
+                    "text": "Suzune Rokuoin"
+                }
+            ],
+            "id": "300097",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which Divinez fighter is nicknamed the \"Vanguard Machine\"?",
+            "text": "Which Divinez fighter is nicknamed the \"Vanguard Machine\"?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "To get his memories back"
+                },
+                {
+                    "correct": true,
+                    "text": "To go to Planet Cray"
+                },
+                {
+                    "correct": false,
+                    "text": "To take over a company"
+                },
+                {
+                    "correct": false,
+                    "text": "To change his past"
+                }
+            ],
+            "id": "300098",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What was Kuon's wish in the Destined Showdown?",
+            "text": "What was Kuon's wish in the Destined Showdown?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Yoko Hikasa"
+                },
+                {
+                    "correct": true,
+                    "text": "Rie Kugimiya"
+                },
+                {
+                    "correct": false,
+                    "text": "Kana Hanazawa"
+                },
+                {
+                    "correct": false,
+                    "text": "Aoi Yuuki"
+                }
+            ],
+            "id": "300099",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who is the Japanese voice actor of Sybilt?",
+            "text": "Who is the Japanese voice actor of Sybilt?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Cats"
+                },
+                {
+                    "correct": false,
+                    "text": "Bears"
+                },
+                {
+                    "correct": false,
+                    "text": "Stars"
+                },
+                {
+                    "correct": true,
+                    "text": "Rabbits"
+                }
+            ],
+            "id": "300100",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What pattern does young Hikari want on her new pajamas?",
+            "text": "What pattern does young Hikari want on her new pajamas?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Roselia"
+                },
+                {
+                    "correct": true,
+                    "text": "Strawberry Prince"
+                },
+                {
+                    "correct": false,
+                    "text": "GYROAXIA"
+                },
+                {
+                    "correct": false,
+                    "text": "Argonavis"
+                }
+            ],
+            "id": "300101",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which group sang the openings \"START\" (overDress), \"Accelerate\" (will+Dress) and \"Shukumei\" (Divinez Season 2)?",
+            "text": "Which group sang the openings \"START\" (overDress), \"Accelerate\" (will+Dress) and \"Shukumei\" (Divinez Season 2)?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Reiryu Shishika"
+                },
+                {
+                    "correct": false,
+                    "text": "Hyakuya Kagebuchi"
+                },
+                {
+                    "correct": false,
+                    "text": "Haruho Kira"
+                },
+                {
+                    "correct": true,
+                    "text": "Shiki Otei"
+                }
+            ],
+            "id": "300102",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In Skyride, who is Zero Tendo's mentor and the ex-founder of Team Blast?",
+            "text": "In Skyride, who is Zero Tendo's mentor and the ex-founder of Team Blast?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Aichi Sendou"
+                },
+                {
+                    "correct": false,
+                    "text": "Yu-yu Kondo"
+                },
+                {
+                    "correct": false,
+                    "text": "Chrono Shindou"
+                },
+                {
+                    "correct": true,
+                    "text": "Akina Myodo"
+                }
+            ],
+            "id": "300103",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which protagonist shows up in Skyride Volume 2 to challenge Zero to a Skyride fight?",
+            "text": "Which protagonist shows up in Skyride Volume 2 to challenge Zero to a Skyride fight?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Wind Fighters Cup"
+                },
+                {
+                    "correct": false,
+                    "text": "VF Circuit"
+                },
+                {
+                    "correct": false,
+                    "text": "Fated Clash"
+                },
+                {
+                    "correct": false,
+                    "text": "Destined Showdown"
+                }
+            ],
+            "id": "300104",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the big tournament Zero enters in Skyride?",
+            "text": "What is the big tournament Zero enters in Skyride?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "YouthQuake"
+                },
+                {
+                    "correct": false,
+                    "text": "Turnabout"
+                },
+                {
+                    "correct": false,
+                    "text": "Star Road Asuka"
+                },
+                {
+                    "correct": true,
+                    "text": "Full Fighters"
+                }
+            ],
+            "id": "300105",
+            "introAudio": "Talking about some recent events...",
+            "outro": null,
+            "questionAudio": "Skyride ended with Volume 6. Which new CoroCoro Vanguard manga released its Volume 1 on the same day?",
+            "text": "Skyride ended with Volume 6. Which new CoroCoro Vanguard manga released its Volume 1 on the same day?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Team Renka"
+                },
+                {
+                    "correct": false,
+                    "text": "Team Dracomoon"
+                },
+                {
+                    "correct": false,
+                    "text": "Team Q4"
+                },
+                {
+                    "correct": true,
+                    "text": "Setsugetsuka"
+                }
+            ],
+            "id": "300106",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In Vanguard Dear Days, which legendary team does Yuki Ichidoji try to revive?",
+            "text": "In Vanguard Dear Days, which legendary team does Yuki Ichidoji try to revive?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Kanazawa, Ishikawa"
+                },
+                {
+                    "correct": true,
+                    "text": "Imizu, Toyama"
+                },
+                {
+                    "correct": false,
+                    "text": "Fukui, Fukui"
+                },
+                {
+                    "correct": false,
+                    "text": "Niigata, Niigata"
+                }
+            ],
+            "id": "300107",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In Vanguard Dear Days 2, which town does the new heroine Otowa Dosaki move to?",
+            "text": "In Vanguard Dear Days 2, which town does the new heroine Otowa Dosaki move to?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Lock on Victory!!"
+                },
+                {
+                    "correct": true,
+                    "text": "Ride to Victory!!"
+                },
+                {
+                    "correct": false,
+                    "text": "G: Stride to Victory!!"
+                },
+                {
+                    "correct": false,
+                    "text": "Vanguard EX"
+                }
+            ],
+            "id": "300108",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In which Vanguard video game do four members of Milky Holmes appear as opponents?",
+            "text": "In which Vanguard video game do four members of Milky Holmes appear as opponents?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "December 2016"
+                },
+                {
+                    "correct": false,
+                    "text": "April 2020"
+                },
+                {
+                    "correct": false,
+                    "text": "December 2020"
+                },
+                {
+                    "correct": true,
+                    "text": "June 2023"
+                }
+            ],
+            "id": "300109",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "When did the mobile game Vanguard ZERO end its service?",
+            "text": "When did the mobile game Vanguard ZERO end its service?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "6"
+                },
+                {
+                    "correct": false,
+                    "text": "7"
+                },
+                {
+                    "correct": true,
+                    "text": "9"
+                },
+                {
+                    "correct": false,
+                    "text": "12"
+                }
+            ],
+            "id": "300110",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many floating islands make up Ketergia, the capital of Keter Sanctuary?",
+            "text": "How many floating islands make up Ketergia, the capital of Keter Sanctuary?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "The Heavenly Council"
+                },
+                {
+                    "correct": false,
+                    "text": "The Magi Conclave"
+                },
+                {
+                    "correct": true,
+                    "text": "The Round Table"
+                },
+                {
+                    "correct": false,
+                    "text": "The Senate of Sacred Albion"
+                }
+            ],
+            "id": "300111",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the highest governing body of Keter Sanctuary?",
+            "text": "What is the highest governing body of Keter Sanctuary?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Grand Heavenly Sword, Alden"
+                },
+                {
+                    "correct": false,
+                    "text": "Knight of Severe Punishment, Geid"
+                },
+                {
+                    "correct": true,
+                    "text": "Apex Ruler, Bastion"
+                },
+                {
+                    "correct": false,
+                    "text": "Actual Analyst, Kokabiel"
+                }
+            ],
+            "id": "300112",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who commands the Cloud Knights of Keter Sanctuary?",
+            "text": "Who commands the Cloud Knights of Keter Sanctuary?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Fides"
+                },
+                {
+                    "correct": false,
+                    "text": "Excalibur"
+                },
+                {
+                    "correct": false,
+                    "text": "Blaster Blade"
+                },
+                {
+                    "correct": true,
+                    "text": "Gundestrup"
+                }
+            ],
+            "id": "300113",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the name of Knight of Severe Punishment, Geid's family sword?",
+            "text": "What is the name of Knight of Severe Punishment, Geid's family sword?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Dust Devil"
+                },
+                {
+                    "correct": true,
+                    "text": "Inferno"
+                },
+                {
+                    "correct": false,
+                    "text": "Steel Dilopho"
+                },
+                {
+                    "correct": false,
+                    "text": "Recusal Hate"
+                }
+            ],
+            "id": "300114",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What nickname does Heavy Artillery of Dust Storm, Eugene give his favourite gun?",
+            "text": "What nickname does Heavy Artillery of Dust Storm, Eugene give his favourite gun?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Rino"
+                },
+                {
+                    "correct": true,
+                    "text": "Reiyu"
+                },
+                {
+                    "correct": false,
+                    "text": "Zonne"
+                },
+                {
+                    "correct": false,
+                    "text": "Rona"
+                }
+            ],
+            "id": "300115",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of the four Blaze Maidens is the oldest?",
+            "text": "Which of the four Blaze Maidens is the oldest?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Vairina"
+                },
+                {
+                    "correct": false,
+                    "text": "Rinolily"
+                },
+                {
+                    "correct": true,
+                    "text": "Trickmoon"
+                },
+                {
+                    "correct": false,
+                    "text": "Shirunga"
+                }
+            ],
+            "id": "300116",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the name of the black, Trickstar-like being that serves Bavsargra?",
+            "text": "What is the name of the black, Trickstar-like being that serves Bavsargra?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Sloth"
+                },
+                {
+                    "correct": false,
+                    "text": "Pride"
+                },
+                {
+                    "correct": false,
+                    "text": "Greed"
+                },
+                {
+                    "correct": false,
+                    "text": "Treachery"
+                }
+            ],
+            "id": "300117",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Greedon names his Desire Devils after vices. Which vice is \"Taida\"?",
+            "text": "Greedon names his Desire Devils after vices. Which vice is \"Taida\"?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Kyanite Blue"
+                },
+                {
+                    "correct": false,
+                    "text": "Risatt Pink"
+                },
+                {
+                    "correct": true,
+                    "text": "Ruby Red"
+                },
+                {
+                    "correct": false,
+                    "text": "Seraph Snow"
+                }
+            ],
+            "id": "300118",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which Aurora Battle Princess in Seraph Snow's ride line is the youngest?",
+            "text": "Which Aurora Battle Princess in Seraph Snow's ride line is the youngest?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Void"
+                },
+                {
+                    "correct": false,
+                    "text": "Relics"
+                },
+                {
+                    "correct": false,
+                    "text": "The Abyss"
+                },
+                {
+                    "correct": true,
+                    "text": "Night"
+                }
+            ],
+            "id": "300119",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What do Brandt Gate's Cardinals call the space where they fight otherworldly foes?",
+            "text": "What do Brandt Gate's Cardinals call the space where they fight otherworldly foes?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Keter Engine"
+                },
+                {
+                    "correct": false,
+                    "text": "Akashic Book"
+                },
+                {
+                    "correct": false,
+                    "text": "A.R.K"
+                },
+                {
+                    "correct": true,
+                    "text": "Wise Cube"
+                }
+            ],
+            "id": "300120",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What did the Great Sage Stoicheia create to observe the blessings across Cray?",
+            "text": "What did the Great Sage Stoicheia create to observe the blessings across Cray?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Melodia"
+                },
+                {
+                    "correct": false,
+                    "text": "Cantabile"
+                },
+                {
+                    "correct": false,
+                    "text": "Fortissimo"
+                },
+                {
+                    "correct": true,
+                    "text": "It doesn't have a name"
+                }
+            ],
+            "id": "300121",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the name of the giant flying whale that carries Lyrical Monasterio?",
+            "text": "What is the name of the giant flying whale that carries Lyrical Monasterio?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "300"
+                },
+                {
+                    "correct": true,
+                    "text": "360"
+                },
+                {
+                    "correct": false,
+                    "text": "365"
+                },
+                {
+                    "correct": false,
+                    "text": "400"
+                }
+            ],
+            "id": "300122",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many days are in a year in the Chakrabarthi Divine Era calendar?",
+            "text": "How many days are in a year in the Chakrabarthi Divine Era calendar?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "1"
+                },
+                {
+                    "correct": true,
+                    "text": "2"
+                },
+                {
+                    "correct": false,
+                    "text": "3"
+                },
+                {
+                    "correct": false,
+                    "text": "4"
+                }
+            ],
+            "id": "300123",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "You play Effervescent Shadow Dream Blade, then Persona Shield (\"you can play up to 2 blitz orders this turn\"). How many blitz orders can you play in total that turn?",
+            "text": "You play Effervescent Shadow Dream Blade, then Persona Shield (\"you can play up to 2 blitz orders this turn\"). How many blitz orders can you play in total that turn?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Krysrain"
+                },
+                {
+                    "correct": false,
+                    "text": "Faciata"
+                },
+                {
+                    "correct": true,
+                    "text": "Liael"
+                },
+                {
+                    "correct": false,
+                    "text": "Hendrina"
+                }
+            ],
+            "id": "300124",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What was the name of Rezael's lover, who died long ago in a civil war?",
+            "text": "What was the name of Rezael's lover, who died long ago in a civil war?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Fides"
+                },
+                {
+                    "correct": false,
+                    "text": "Alfred"
+                },
+                {
+                    "correct": false,
+                    "text": "Altmile"
+                },
+                {
+                    "correct": false,
+                    "text": "Valeos"
+                }
+            ],
+            "id": "300125",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which knight, guided by the sage Zenon, drew a holy sword and founded Royal Paladin?",
+            "text": "Which knight, guided by the sage Zenon, drew a holy sword and founded Royal Paladin?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Amon"
+                },
+                {
+                    "correct": false,
+                    "text": "Dudley Emperor"
+                },
+                {
+                    "correct": true,
+                    "text": "Gastille"
+                },
+                {
+                    "correct": false,
+                    "text": "Baphormedes"
+                }
+            ],
+            "id": "300126",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which young Demonic Lord of the Dark Zone summoned the Destruction Deity Gyze?",
+            "text": "Which young Demonic Lord of the Dark Zone summoned the Destruction Deity Gyze?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "3.5 billion years ago"
+                },
+                {
+                    "correct": false,
+                    "text": "10 billion years ago"
+                },
+                {
+                    "correct": false,
+                    "text": "14 billion years ago"
+                },
+                {
+                    "correct": true,
+                    "text": "16 billion years ago"
+                }
+            ],
+            "id": "300127",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "According to the official Cray history, roughly how long ago was Planet Cray born?",
+            "text": "According to the official Cray history, roughly how long ago was Planet Cray born?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "The letter O"
+                },
+                {
+                    "correct": true,
+                    "text": "The number zero"
+                },
+                {
+                    "correct": false,
+                    "text": "An Omega symbol"
+                },
+                {
+                    "correct": false,
+                    "text": "A Theta symbol"
+                }
+            ],
+            "id": "300128",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "DZ-BT08's English title is \"Knights _f Rebirth\". What character fills in the blank?",
+            "text": "DZ-BT08's English title is \"Knights _f Rebirth\". What character fills in the blank?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Parallactic Dawn"
+                },
+                {
+                    "correct": false,
+                    "text": "Parallactic Clash"
+                },
+                {
+                    "correct": true,
+                    "text": "Parallactic Fate"
+                },
+                {
+                    "correct": false,
+                    "text": "Envoys of the Crimson Moon"
+                }
+            ],
+            "id": "300129",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which DZ booster set is billed as \"the grand finale of the Divinez series\"?",
+            "text": "Which DZ booster set is billed as \"the grand finale of the Divinez series\"?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Blaster Blade"
+                },
+                {
+                    "correct": false,
+                    "text": "Dragonic Overlord"
+                },
+                {
+                    "correct": false,
+                    "text": "Chronojet Dragon"
+                },
+                {
+                    "correct": false,
+                    "text": "Fated One of Miracles, Rezael"
+                }
+            ],
+            "id": "300130",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "DZ-SS16 \"The Legendary Vanguards\" has only one Pure Gold Serial (PGS) card. Which card is it?",
+            "text": "DZ-SS16 \"The Legendary Vanguards\" has only one Pure Gold Serial (PGS) card. Which card is it?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Only Gratias Gradale"
+                },
+                {
+                    "correct": false,
+                    "text": "Only Dragontree of Ecliptic Decimation, Griphogila"
+                },
+                {
+                    "correct": false,
+                    "text": "Both"
+                },
+                {
+                    "correct": false,
+                    "text": "Neither"
+                }
+            ],
+            "id": "300131",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Purgatory Great Dragon Emperor, Favrneel Rheingold adds up the grades of Dark States cards in your soul. Which of these no-nation cards in your soul are counted?",
+            "text": "Purgatory Great Dragon Emperor, Favrneel Rheingold adds up the grades of Dark States cards in your soul. Which of these no-nation cards in your soul are counted?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "You heal and lose the ability"
+                },
+                {
+                    "correct": false,
+                    "text": "You don't heal, but still lose the ability"
+                },
+                {
+                    "correct": true,
+                    "text": "Nothing; it can activate again once the negation ends"
+                },
+                {
+                    "correct": false,
+                    "text": "The ability is gone for the rest of the fight"
+                }
+            ],
+            "id": "300132",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Blangdmire's Divine Skill negates the \"heal 1, then lose this ability\" you got from Rezael's Divine Skill. If its condition is met while negated, what happens?",
+            "text": "Blangdmire's Divine Skill negates the \"heal 1, then lose this ability\" you got from Rezael's Divine Skill. If its condition is met while negated, what happens?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Yes, you still own the card"
+                },
+                {
+                    "correct": false,
+                    "text": "Yes, but your opponent resolves it"
+                },
+                {
+                    "correct": true,
+                    "text": "No, it retired as your opponent's rear-guard"
+                },
+                {
+                    "correct": false,
+                    "text": "Only if it was in the front row"
+                }
+            ],
+            "id": "300133",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Your rear-guard is dominated by Enma Stealth Dragon, Maguntenbu and then retired. Does your Vampire Princess of Night Fog, Nightrose's \"when your rear-guard is retired\" ability activate?",
+            "text": "Your rear-guard is dominated by Enma Stealth Dragon, Maguntenbu and then retired. Does your Vampire Princess of Night Fog, Nightrose's \"when your rear-guard is retired\" ability activate?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "30,000"
+                },
+                {
+                    "correct": false,
+                    "text": "40,000"
+                },
+                {
+                    "correct": true,
+                    "text": "50,000"
+                },
+                {
+                    "correct": false,
+                    "text": "100,000"
+                }
+            ],
+            "id": "300134",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Bushiroad banned Defensing Roar because, with over triggers, Dragon Empire could guard with at least how much shield several times per fight?",
+            "text": "Bushiroad banned Defensing Roar because, with over triggers, Dragon Empire could guard with at least how much shield several times per fight?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "V Standard & P Standard"
+                },
+                {
+                    "correct": false,
+                    "text": "V Classic & P Classic"
+                },
+                {
+                    "correct": false,
+                    "text": "V Extreme & P Extreme"
+                },
+                {
+                    "correct": false,
+                    "text": "V Legacy & P Legacy"
+                }
+            ],
+            "id": "300135",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "In Japan, what are the formats known in English as \"V Premium\" and \"Premium\" called?",
+            "text": "In Japan, what are the formats known in English as \"V Premium\" and \"Premium\" called?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Its ability made fights end too quickly"
+                },
+                {
+                    "correct": true,
+                    "text": "To limit how many times it can be ridden per fight"
+                },
+                {
+                    "correct": false,
+                    "text": "It could be called from the drop zone too easily"
+                },
+                {
+                    "correct": false,
+                    "text": "It put too many cards into the soul"
+                }
+            ],
+            "id": "300136",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "According to Bushiroad, why was Vyrgilla \"Rewrite Form: Alfknights\" restricted to 2 copies?",
+            "text": "According to Bushiroad, why was Vyrgilla \"Rewrite Form: Alfknights\" restricted to 2 copies?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Dark States"
+                },
+                {
+                    "correct": false,
+                    "text": "Brandt Gate"
+                },
+                {
+                    "correct": false,
+                    "text": "Stoicheia"
+                },
+                {
+                    "correct": true,
+                    "text": "Lyrical Monasterio"
+                }
+            ],
+            "id": "300137",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "As of October 2026, which nation has NO cards at all on the Standard restriction list?",
+            "text": "As of October 2026, which nation has NO cards at all on the Standard restriction list?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "It is bound, then returns to your hand at end of turn"
+                },
+                {
+                    "correct": false,
+                    "text": "You must choose a different card"
+                },
+                {
+                    "correct": false,
+                    "text": "It is bound and stays bound"
+                },
+                {
+                    "correct": true,
+                    "text": "You reveal it and it stays in your hand"
+                }
+            ],
+            "id": "300138",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Your opponent's Cloudwater Flitfoot Stealth Rogue, Shojodoji makes you choose a card from your hand to bind. You choose Crimson Moonlight. What happens?",
+            "text": "Your opponent's Cloudwater Flitfoot Stealth Rogue, Shojodoji makes you choose a card from your hand to bind. You choose Crimson Moonlight. What happens?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "34000"
+                },
+                {
+                    "correct": false,
+                    "text": "42000"
+                },
+                {
+                    "correct": false,
+                    "text": "26000"
+                },
+                {
+                    "correct": false,
+                    "text": "21000"
+                }
+            ],
+            "id": "300139",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Your 13000 Power vanguard is boosted by an 8000 rear-guard. Eldobreath's drive check effect doubles your front row's Power. Not counting its +100,000,000, what is the vanguard's Power?",
+            "text": "Your 13000 Power vanguard is boosted by an 8000 rear-guard. Eldobreath's drive check effect doubles your front row's Power. Not counting its +100,000,000, what is the vanguard's Power?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Dragon Empire"
+                },
+                {
+                    "correct": true,
+                    "text": "Brandt Gate"
+                },
+                {
+                    "correct": false,
+                    "text": "Dark States"
+                },
+                {
+                    "correct": false,
+                    "text": "Keter Sanctuary"
+                }
+            ],
+            "id": "300140",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Each Nakano quintuplet in DZ-BT02 is from a different nation. Which nation is Miku Nakano?",
+            "text": "Each Nakano quintuplet in DZ-BT02 is from a different nation. Which nation is Miku Nakano?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "30,000"
+                },
+                {
+                    "correct": false,
+                    "text": "45,000"
+                },
+                {
+                    "correct": true,
+                    "text": "60,000"
+                },
+                {
+                    "correct": false,
+                    "text": "75,000"
+                }
+            ],
+            "id": "300141",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Japan restricted the Like a Dragon card \"Yuya\" to 2 copies because several in the soul could guard for a total of up to how much shield?",
+            "text": "Japan restricted the Like a Dragon card \"Yuya\" to 2 copies because several in the soul could guard for a total of up to how much shield?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "10th"
+                },
+                {
+                    "correct": false,
+                    "text": "13th"
+                },
+                {
+                    "correct": true,
+                    "text": "15th"
+                },
+                {
+                    "correct": false,
+                    "text": "20th"
+                }
+            ],
+            "id": "300142",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "DZ-SS16 \"The Legendary Vanguards\" was a commemorative booster for which anniversary?",
+            "text": "DZ-SS16 \"The Legendary Vanguards\" was a commemorative booster for which anniversary?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Persona"
+                },
+                {
+                    "correct": false,
+                    "text": "Monster Strike"
+                },
+                {
+                    "correct": false,
+                    "text": "Touken Ranbu"
+                },
+                {
+                    "correct": false,
+                    "text": "Inazuma Eleven"
+                }
+            ],
+            "id": "300143",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "DZ Title Booster Premium 02 celebrates the 30th anniversary of which franchise?",
+            "text": "DZ Title Booster Premium 02 celebrates the 30th anniversary of which franchise?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Hansamu"
+                },
+                {
+                    "correct": false,
+                    "text": "Banboo"
+                },
+                {
+                    "correct": false,
+                    "text": "John Xie"
+                },
+                {
+                    "correct": false,
+                    "text": "Dorian B"
+                }
+            ],
+            "id": "300144",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Who won the Standard division of the BCS 25/26 World Finals?",
+            "text": "Who won the Standard division of the BCS 25/26 World Finals?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Eledglema"
+                },
+                {
+                    "correct": true,
+                    "text": "Bavsargra Aksayya"
+                },
+                {
+                    "correct": false,
+                    "text": "Rezael Vita"
+                },
+                {
+                    "correct": false,
+                    "text": "Lianorn Traumend"
+                }
+            ],
+            "id": "300145",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which deck did Banboo use to win the BCS 24/25 World Finals (Standard)?",
+            "text": "Which deck did Banboo use to win the BCS 24/25 World Finals (Standard)?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Deeplands, Reguregnus"
+                },
+                {
+                    "correct": false,
+                    "text": "Aurora Battle Princess, Seraph Clearlight"
+                },
+                {
+                    "correct": true,
+                    "text": "Sugary and Scary Land, Heartluru"
+                },
+                {
+                    "correct": false,
+                    "text": "Bavsargra Aksayya"
+                }
+            ],
+            "id": "300146",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What was the most played deck at the BCS 25/26 World Finals (Standard)?",
+            "text": "What was the most played deck at the BCS 25/26 World Finals (Standard)?",
             "us": false,
             "x": false
         }

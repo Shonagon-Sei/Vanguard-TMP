@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQ"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "Q",
+   "s": "Artists that sang an OPENING theme for a Vanguard TV anime"
+  }
+ ]
+}

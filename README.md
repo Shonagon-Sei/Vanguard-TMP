@@ -27,6 +27,10 @@ All left is just put the files and folders into the content folder, replace the 
 ![Step 3](https://i.ibb.co/0DtT1r3/Screenshot-2024-08-27-000254.png)
 
 ## Update Log
+### V2.0
+- 146 Normal Questions
+- 60 Final Round Questions
+- 10 Mind Meld Topics
 ### V1.0
 - 51 Normal Questions
 - 33 Final Round Questions

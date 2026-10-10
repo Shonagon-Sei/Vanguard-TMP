@@ -30,6 +30,10 @@ Put the files and folders into the content folder and replace the files.
 <br><br>To remove the mod, right click the game in your steam library, open Properties, Installed Files, and click Verify integrity of game files.
 
 ## Update Log
+### V2.0
+- 146 Normal Questions
+- 60 Final Round Questions
+- 10 Mind Meld Topics
 ### V1.0
 - 51 Normal Questions
 - 33 Final Round Questions

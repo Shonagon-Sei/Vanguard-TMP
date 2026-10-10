@@ -1,0 +1,251 @@
+{
+ "content": [
+  {
+   "generationJump": 0,
+   "id": "101387",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "The Final Turn",
+    "sub": "(Kai called it, so it really is the last one)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101388",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Banlist Later",
+    "sub": "(your deck is not legal anymore)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101389",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Three Booster Sets Later",
+    "sub": "(the meta flipped twice)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101390",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Rotation Later",
+    "sub": "(your Standard deck now lives in Premium)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101391",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Several Reboots Later",
+    "sub": "(and Aichi is the main character again)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101392",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Six Damage Later",
+    "sub": "(shuffle up for game two)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101393",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Two Drive Checks Later",
+    "sub": "(and neither of them was a trigger)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101394",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Ride Later",
+    "sub": "(it was a Persona Ride, so draw a card)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101395",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Perfect Guard Later",
+    "sub": "(that attack hit absolutely nothing)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101396",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Errata Later",
+    "sub": "(that card does something completely different now)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101397",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Shop Tournament Later",
+    "sub": "(held at Card Capital, obviously)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101398",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Anime Season Later",
+    "sub": "(the protagonist switched decks again)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101399",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Some Time Passes",
+    "sub": "(nobody kept track of the soul count either)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101400",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "On the Next Full Moon",
+    "sub": "(the Pale Moon circus is in town)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101401",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Five Years Later",
+    "sub": "(and your clan still has not gotten new support)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101402",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Ten Years Later",
+    "sub": "(still waiting on that one reprint)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101403",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Twelve Years Later",
+    "sub": "(Kai still has not smiled)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101404",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Twenty Years Later",
+    "sub": "(still running the same Ride Deck)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101405",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Stand Up, Five Years Later",
+    "sub": "(the Vanguard has been standing this whole time)"
+   }
+  }
+ ]
+}

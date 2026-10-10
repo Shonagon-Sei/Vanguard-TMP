@@ -9,17 +9,21 @@ Automatic (TTSMaker PRO API key)
   python tools/tts_import.py status                  show your remaining character quota
   python tools/tts_import.py generate --voice ID [--speed 1.0] [--pitch 1.0] [--volume 1.0]
                                       [--only 300063,400055] [--force]
-      Voices every pending line and drops it into the right folder in the game's format.
+      Voices every pending line (questions, Final Round titles and Dictation letters) and drops
+      it into the right folder in the game's format.
       Finished lines are remembered in tools/tts_done.json, so re-running only does new or
       changed lines (or everything with --force).
+      Dictation letters are voiced line by line into tools/dictation_audio/<id>/<n>.ogg; run
+      tools/dictation_bank.py build afterwards to put them into the game's sound bank.
 
 Manual (website)
   python tools/tts_import.py checklist
       Writes tools/tts_checklist.txt: every line that still needs a real voice, and the file
-      name to save each TTSMaker download as (e.g. 300063.mp3, 300059_intro.mp3).
+      name to save each TTSMaker download as (e.g. 300063.mp3, 300059_intro.mp3, 600000_1.mp3).
   python tools/tts_import.py import "C:/path/to/downloads"
       Converts each file to the game's format (Ogg Vorbis, 24 kHz, mono, 48 kbps) and puts it
-      in the right TDQuestion/TDFinalRound folder, creating data.jet if it is missing.
+      in the right TDQuestion/TDFinalRound folder (creating data.jet if it is missing) or in
+      tools/dictation_audio.
 """
 import json, os, re, subprocess, sys, tempfile, time, urllib.error, urllib.parse, urllib.request
 
@@ -30,17 +34,20 @@ CRLF = "\r\n"
 API ="https://api.ttsmaker.com/v2"
 DONE_FILE = os.path.join(ROOT, "tools", "tts_done.json")
 
-# Lines that currently use placeholder (Windows TTS) audio or have no audio at all.
+def load(name):
+    return {c["id"]: c for c in json.load(open(os.path.join(ROOT, name), encoding="utf-8"))["content"]}
+
+
+# Lines that currently use placeholder (Windows TTS) audio or have no audio at all, plus every
+# Dictation letter (its voice goes into the sound bank, see tools/dictation_bank.py).
 PENDING = (
     ["300059", "300060", "300061", "300062"]
     + [str(i) for i in range(300063, 300147)]
     + ["400020", "400023", "400024"]
     + [str(i) for i in range(400036, 400061)]
+    + list(load("TDDictation.jet"))
 )
-
-
-def load(name):
-    return {c["id"]: c for c in json.load(open(os.path.join(ROOT, name), encoding="utf-8"))["content"]}
+DICTATION_AUDIO = os.path.join(ROOT, "tools", "dictation_audio")
 
 
 def lines_for(entry_id):
@@ -53,8 +60,12 @@ def lines_for(entry_id):
             out.append((entry_id + "_intro", q["introAudio"], os.path.join(folder, "introAudio.ogg")))
         out.append((entry_id, q["text"], os.path.join(folder, "questionAudio.ogg")))
         return out
-    f = load("TDFinalRound.jet")[entry_id]
-    return [(entry_id, f["text"], os.path.join(ROOT, "TDFinalRound", entry_id, "question.ogg"))]
+    if entry_id.startswith("4"):
+        f = load("TDFinalRound.jet")[entry_id]
+        return [(entry_id, f["text"], os.path.join(ROOT, "TDFinalRound", entry_id, "question.ogg"))]
+    d = load("TDDictation.jet")[entry_id]
+    return [(f"{entry_id}_{n}", line, os.path.join(DICTATION_AUDIO, entry_id, f"{n}.ogg"))
+            for n, line in enumerate(d["text"], 1)]
 
 
 def speakable(text):
@@ -80,7 +91,11 @@ def speakable(text):
 
 
 def write_data_jet(entry_id):
-    """Create data.jet for an entry that has no folder yet (same layout as the existing ones)."""
+    """Create data.jet for an entry that has no folder yet (same layout as the existing ones).
+    Dictation letters only need their audio folder: their voice goes into the sound bank."""
+    if entry_id.startswith("6"):
+        os.makedirs(os.path.join(DICTATION_AUDIO, entry_id), exist_ok=True)
+        return
     if entry_id.startswith("3"):
         q = load("TDQuestion.jet")[entry_id]
         folder = os.path.join(ROOT, "TDQuestion", entry_id)
@@ -125,7 +140,7 @@ def checklist():
 
 def import_dir(src):
     targets = {stem: (entry_id, dest) for entry_id in PENDING for stem, _, dest in lines_for(entry_id)}
-    done, unknown = 0, []
+    done, unknown, imported = 0, [], []
     for name in sorted(os.listdir(src)):
         stem, ext = os.path.splitext(name)
         if stem not in targets:
@@ -136,9 +151,11 @@ def import_dir(src):
         to_game_format(os.path.join(src, name), dest)
         print("imported", name, "->", os.path.relpath(dest, ROOT))
         done += 1
+        imported.append(entry_id)
     print(f"{done} file(s) imported.")
     if unknown:
         print("Skipped (name not in the checklist):", ", ".join(unknown))
+    dictation_hint(imported)
 
 
 # ---------------------------------------------------------------- TTSMaker API
@@ -237,6 +254,12 @@ def generate(args):
             show_quota(resp)
         time.sleep(1.2)  # API limit: 1 request per second
     print("Done.")
+    dictation_hint([entry_id for entry_id, _, _, _ in todo])
+
+
+def dictation_hint(entry_ids):
+    if any(e.startswith("6") for e in entry_ids):
+        print("Dictation lines changed: run  python tools/dictation_bank.py build  to update the sound bank.")
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-118 lines to voice. Save each TTSMaker download as the name on the left.
+170 lines to voice. Save each TTSMaker download as the name on the left.
 
 300059_intro.mp3
     Talking about some recent events...
@@ -353,4 +353,160 @@
 
 400060.mp3
     Units that are Workeroids
+
+600000_1.mp3
+    Dear Bushiroad
+
+600000_2.mp3
+    I am writing about your OverTriggers.
+
+600000_3.mp3
+    My opponent drive checked one when I was grade 2
+
+600000_4.mp3
+    and I lost immediately without getting to play.
+
+600000_5.mp3
+    If you do not remove them from the game.
+
+600000_6.mp3
+    I will kindly invite you to visit my hotel.
+
+600000_7.mp3
+    So we can have SO MUCH FUN together.
+
+600000_8.mp3
+    Best Regards.
+
+600001_1.mp3
+    Dear Card Capital
+
+600001_2.mp3
+    I understand your store manager is a cat.
+
+600001_3.mp3
+    I have no problem with this.
+
+600001_4.mp3
+    But the cat sold me a booster box
+
+600001_5.mp3
+    and every card inside was a common.
+
+600001_6.mp3
+    I would like a refund in fish.
+
+600001_7.mp3
+    If not, I will open my own card shop.
+
+600001_8.mp3
+    It will have a very comfortable basement.
+
+600002_1.mp3
+    Dear Toshiki Kai
+
+600002_2.mp3
+    You keep announcing the final turn.
+
+600002_3.mp3
+    Then the game keeps going.
+
+600002_4.mp3
+    At my hotel, the final turn is final.
+
+600002_5.mp3
+    Please come and see for yourself.
+
+600002_6.mp3
+    Bring your Dragonic Overlord.
+
+600002_7.mp3
+    We have a fireplace that should fit him.
+
+600003_1.mp3
+    Dear Aichi Sendou
+
+600003_2.mp3
+    You told everyone to imagine.
+
+600003_3.mp3
+    So I imagined my guests winning.
+
+600003_4.mp3
+    It was the funniest thing I have ever pictured.
+
+600003_5.mp3
+    Please stop giving them hope.
+
+600003_6.mp3
+    It only makes the screaming louder.
+
+600003_7.mp3
+    Yours truly, the front desk.
+
+600004_1.mp3
+    Dear Guests
+
+600004_2.mp3
+    Someone keeps checking heal triggers.
+
+600004_3.mp3
+    I deal the sixth damage
+
+600004_4.mp3
+    and a nurse angel fixes everything.
+
+600004_5.mp3
+    This is a hotel, not a hospital.
+
+600004_6.mp3
+    Any angels found in the lobby
+
+600004_7.mp3
+    will be asked to check out.
+
+600004_8.mp3
+    Permanently.
+
+600005_1.mp3
+    Dear Link Joker
+
+600005_2.mp3
+    Thank you for staying at my hotel.
+
+600005_3.mp3
+    Sadly, you locked every door in the building.
+
+600005_4.mp3
+    I have been stuck behind my desk for three days.
+
+600005_5.mp3
+    Please unlock everything at once.
+
+600005_6.mp3
+    The guests have started to like you.
+
+600005_7.mp3
+    That will not do.
+
+600006_1.mp3
+    Dear Perfect Guard
+
+600006_2.mp3
+    You are the reason my guests survive.
+
+600006_3.mp3
+    I attack with all my power
+
+600006_4.mp3
+    and you simply say no.
+
+600006_5.mp3
+    One card from the hand is too cheap.
+
+600006_6.mp3
+    From now on, the price is one soul.
+
+600006_7.mp3
+    I am collecting.
 

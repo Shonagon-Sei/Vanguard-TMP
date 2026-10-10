@@ -4,6 +4,7 @@
  - Normal Questions
  - Final Round Questions
  - Mind Meld Topics
+ - Dictation Letters
 <br>With everything voiced!<br>More will be coming soon, and an Update log is noted at the bottom
 
 ## Current Focuses on Future Updates
@@ -23,8 +24,10 @@ Open up your steam library and search up Jackbox Party Pack 6 or Jackbox Party S
 <br><br>Lastly delete the TDFinalRound and TDQuestions folder
 ![Step 3](https://i.ibb.co/mbNZcGv/Screenshot-2024-08-26-235200.png)
 ### Put Mod Files Into The Game files
-All left is just put the files and folders into the content folder, replace the files and you're done!
+Put the files and folders into the content folder and replace the files.
 ![Step 3](https://i.ibb.co/0DtT1r3/Screenshot-2024-08-27-000254.png)
+<br><br>Lastly go back up one folder to TriviaDeath2 (the folder that has the content folder in it), put TMP2Host.bank there and replace the file. That file has the voiced Dictation letters, and you're done!
+<br><br>To remove the mod, right click the game in your steam library, open Properties, Installed Files, and click Verify integrity of game files.
 
 ## Update Log
 ### V1.0
